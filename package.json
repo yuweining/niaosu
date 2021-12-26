@@ -1,11 +1,11 @@
 {
-  "name": "logicdn",
-  "version": "1.0.500",
+  "name": "niaosu",
+  "version": "1.0.0",
   "description": "Static CDN for Personal Use",
   "main": "index.mjs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vcheckzen/cdn.git"
+    "url": "git+https://github.com/yuweining/niaosu.git"
   },
   "keywords": [
     "cdn",
@@ -14,7 +14,7 @@
   "author": "LOGI",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vcheckzen/cdn/issues"
+    "url": "https://github.com/yuweining/niaosu/issues"
   },
-  "homepage": "https://github.com/vcheckzen/cdn#readme"
+  "homepage": "https://github.com/yuweining/niaosu#readme"
 }
