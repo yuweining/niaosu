@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "6",
+            "text": "6"
+        },
+        {
+            "icon": "dazhaohu",
+            "text": "打招呼"
+        },
+        {
+            "icon": "keai",
+            "text": "可爱"
+        },
+        {
+            "icon": "kuku",
+            "text": "哭哭"
+        },
+        {
+            "icon": "miehuoyou",
+            "text": "灭火右"
+        },
+        {
+            "icon": "shenshou",
+            "text": "伸手"
+        },
+        {
+            "icon": "shenzhuazi",
+            "text": "伸爪子"
+        },
+        {
+            "icon": "shengqi",
+            "text": "生气"
+        },
+        {
+            "icon": "xiangshou",
+            "text": "享受"
+        },
+        {
+            "icon": "yiwen",
+            "text": "疑问"
+        }
+    ],
+    "displayName": "奥利猫",
+    "imgClass": "small",
+    "name": "aolimao",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

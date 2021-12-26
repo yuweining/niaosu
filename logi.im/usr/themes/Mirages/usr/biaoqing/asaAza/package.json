@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "？？？",
+            "text": "？？？"
+        },
+        {
+            "icon": "baituo",
+            "text": "拜托"
+        },
+        {
+            "icon": "bang",
+            "text": "棒"
+        },
+        {
+            "icon": "heniunai",
+            "text": "喝牛奶"
+        },
+        {
+            "icon": "jingjue",
+            "text": "警觉"
+        },
+        {
+            "icon": "kuku",
+            "text": "哭哭"
+        },
+        {
+            "icon": "shengqi",
+            "text": "生气"
+        },
+        {
+            "icon": "wei",
+            "text": "危"
+        },
+        {
+            "icon": "xixi",
+            "text": "嘻嘻"
+        },
+        {
+            "icon": "zalezale",
+            "text": "咋了咋了"
+        }
+    ],
+    "displayName": "阿萨Aza",
+    "imgClass": "small",
+    "name": "asaAza",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

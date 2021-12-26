@@ -1,0 +1,94 @@
+{
+    "container": [
+        {
+            "icon": "jizhi",
+            "text": "机智"
+        },
+        {
+            "icon": "dao",
+            "text": "刀"
+        },
+        {
+            "icon": "maile",
+            "text": "埋了"
+        },
+        {
+            "icon": "zhanglang",
+            "text": "蟑螂"
+        },
+        {
+            "icon": "chouda",
+            "text": "抽打"
+        },
+        {
+            "icon": "ran",
+            "text": "燃"
+        },
+        {
+            "icon": "chaoxiong",
+            "text": "超凶"
+        },
+        {
+            "icon": "ganfancangqiong",
+            "text": "干翻苍穹"
+        },
+        {
+            "icon": "zaole",
+            "text": "糟了"
+        },
+        {
+            "icon": "sunzei",
+            "text": "孙贼"
+        },
+        {
+            "icon": "yangsheng",
+            "text": "养生"
+        },
+        {
+            "icon": "tan",
+            "text": "瘫"
+        },
+        {
+            "icon": "dacall",
+            "text": "打call"
+        },
+        {
+            "icon": "bixin",
+            "text": "比心"
+        },
+        {
+            "icon": "motou",
+            "text": "摸头"
+        },
+        {
+            "icon": "bagua",
+            "text": "八卦"
+        },
+        {
+            "icon": "huli",
+            "text": "狐狸"
+        },
+        {
+            "icon": "chengrang",
+            "text": "承让"
+        },
+        {
+            "icon": "ai？",
+            "text": "哎？"
+        },
+        {
+            "icon": "tanqi",
+            "text": "叹气"
+        },
+        {
+            "icon": "lei",
+            "text": "雷"
+        }
+    ],
+    "displayName": "一人之下",
+    "imgClass": "small",
+    "name": "yirenzhixia",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

@@ -1,0 +1,82 @@
+{
+    "container": [
+        {
+            "icon": "guqi",
+            "text": "鼓气"
+        },
+        {
+            "icon": "haipa",
+            "text": "害怕"
+        },
+        {
+            "icon": "jingxia",
+            "text": "惊吓"
+        },
+        {
+            "icon": "laia",
+            "text": "来啊"
+        },
+        {
+            "icon": "leisile",
+            "text": "累死了"
+        },
+        {
+            "icon": "lengmo",
+            "text": "冷漠"
+        },
+        {
+            "icon": "lihaile",
+            "text": "厉害了"
+        },
+        {
+            "icon": "niganma",
+            "text": "你干嘛"
+        },
+        {
+            "icon": "niuniunienie",
+            "text": "扭扭捏捏"
+        },
+        {
+            "icon": "qidao",
+            "text": "祈祷"
+        },
+        {
+            "icon": "sisuo",
+            "text": "思索"
+        },
+        {
+            "icon": "toubi",
+            "text": "投币"
+        },
+        {
+            "icon": "wunai",
+            "text": "无奈"
+        },
+        {
+            "icon": "xiee",
+            "text": "邪恶"
+        },
+        {
+            "icon": "yinmou",
+            "text": "阴谋"
+        },
+        {
+            "icon": "zenmezheyang",
+            "text": "怎么这样"
+        },
+        {
+            "icon": "emmm",
+            "text": "emmm"
+        },
+        {
+            "icon": "bucuo",
+            "text": "不错"
+        }
+    ],
+    "displayName": "公主连结",
+    "imgClass": "small",
+    "name": "gongzhulianjie",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

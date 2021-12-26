@@ -1,0 +1,90 @@
+{
+    "container": [
+        {
+            "icon": "？？？",
+            "text": "？？？"
+        },
+        {
+            "icon": "baituolegege",
+            "text": "拜托了哥哥"
+        },
+        {
+            "icon": "baobao",
+            "text": "抱抱"
+        },
+        {
+            "icon": "bianshen",
+            "text": "变身"
+        },
+        {
+            "icon": "buchongtili",
+            "text": "补充体力"
+        },
+        {
+            "icon": "buxiangdong",
+            "text": "不想动"
+        },
+        {
+            "icon": "dundundun",
+            "text": "吨吨吨"
+        },
+        {
+            "icon": "haochi",
+            "text": "好吃"
+        },
+        {
+            "icon": "haoleia",
+            "text": "好累啊"
+        },
+        {
+            "icon": "jiazhuangmeishi",
+            "text": "假装没事"
+        },
+        {
+            "icon": "jiandandekuaile",
+            "text": "简单的快乐"
+        },
+        {
+            "icon": "kanxi",
+            "text": "看戏"
+        },
+        {
+            "icon": "renshengyingjia",
+            "text": "人生赢家"
+        },
+        {
+            "icon": "sesefadou",
+            "text": "瑟瑟发抖"
+        },
+        {
+            "icon": "shihua",
+            "text": "石化"
+        },
+        {
+            "icon": "wanyouxi",
+            "text": "玩游戏"
+        },
+        {
+            "icon": "wofule",
+            "text": "我富了"
+        },
+        {
+            "icon": "wuyu",
+            "text": "无语"
+        },
+        {
+            "icon": "xianmu",
+            "text": "羡慕"
+        },
+        {
+            "icon": "yingyingying",
+            "text": "嘤嘤嘤"
+        }
+    ],
+    "displayName": "干物妹！小埋",
+    "imgClass": "small",
+    "name": "ganwumei！xiaomai",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "daijin",
+            "text": "带劲"
+        },
+        {
+            "icon": "siwanggeji",
+            "text": "死亡歌姬"
+        },
+        {
+            "icon": "hahaha",
+            "text": "哈哈哈"
+        },
+        {
+            "icon": "danio",
+            "text": "打你哦"
+        },
+        {
+            "icon": "zhenxiang",
+            "text": "真香"
+        },
+        {
+            "icon": "lanlanlu",
+            "text": "蓝蓝路"
+        },
+        {
+            "icon": "chuibao",
+            "text": "吹爆"
+        },
+        {
+            "icon": "fennu",
+            "text": "愤怒"
+        },
+        {
+            "icon": "weixie",
+            "text": "威胁"
+        },
+        {
+            "icon": "jinkela",
+            "text": "金坷垃"
+        }
+    ],
+    "displayName": "黄绿合战5th",
+    "imgClass": "small",
+    "name": "huanglvhezhan5th",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

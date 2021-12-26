@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "bubugaosheng",
+            "text": "步步糕升"
+        },
+        {
+            "icon": "dajidali",
+            "text": "大吉大利"
+        },
+        {
+            "icon": "ganfanren",
+            "text": "干饭人"
+        },
+        {
+            "icon": "haoya",
+            "text": "好鸭"
+        },
+        {
+            "icon": "hongbaolaile",
+            "text": "红包来了"
+        },
+        {
+            "icon": "mouwenti",
+            "text": "哞问题"
+        },
+        {
+            "icon": "niannianyouyu",
+            "text": "年年有鱼"
+        },
+        {
+            "icon": "pangsanjin",
+            "text": "胖三斤"
+        },
+        {
+            "icon": "wodeguo",
+            "text": "我的锅"
+        },
+        {
+            "icon": "xinxiangshicheng",
+            "text": "心想事橙"
+        }
+    ],
+    "displayName": "牛气冲天",
+    "imgClass": "small",
+    "name": "niuqichongtian",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

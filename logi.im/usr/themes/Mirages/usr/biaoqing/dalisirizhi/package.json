@@ -1,0 +1,70 @@
+{
+    "container": [
+        {
+            "icon": "dengchang",
+            "text": "登场"
+        },
+        {
+            "icon": "faxian",
+            "text": "发现"
+        },
+        {
+            "icon": "heixian",
+            "text": "黑线"
+        },
+        {
+            "icon": "huaiyi",
+            "text": "怀疑"
+        },
+        {
+            "icon": "jingya",
+            "text": "惊讶"
+        },
+        {
+            "icon": "kaixin",
+            "text": "开心"
+        },
+        {
+            "icon": "kuku",
+            "text": "哭哭"
+        },
+        {
+            "icon": "kunkun",
+            "text": "困困"
+        },
+        {
+            "icon": "leidao",
+            "text": "雷到"
+        },
+        {
+            "icon": "maoxiao",
+            "text": "猫笑"
+        },
+        {
+            "icon": "nuhuo",
+            "text": "怒火"
+        },
+        {
+            "icon": "shanguang",
+            "text": "闪光"
+        },
+        {
+            "icon": "wuyu",
+            "text": "无语"
+        },
+        {
+            "icon": "yinfu",
+            "text": "音符"
+        },
+        {
+            "icon": "zhayan",
+            "text": "眨眼"
+        }
+    ],
+    "displayName": "大理寺日志",
+    "imgClass": "small",
+    "name": "dalisirizhi",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

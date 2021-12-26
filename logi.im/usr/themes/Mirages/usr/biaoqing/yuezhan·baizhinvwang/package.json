@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "aoman",
+            "text": "傲慢"
+        },
+        {
+            "icon": "shengqi",
+            "text": "生气"
+        },
+        {
+            "icon": "heng",
+            "text": "哼"
+        },
+        {
+            "icon": "tuxie",
+            "text": "吐血"
+        },
+        {
+            "icon": "haixiu",
+            "text": "害羞"
+        },
+        {
+            "icon": "haipa",
+            "text": "害怕"
+        },
+        {
+            "icon": "dianzan",
+            "text": "点赞"
+        },
+        {
+            "icon": "wuyu",
+            "text": "无语"
+        },
+        {
+            "icon": "chongbai",
+            "text": "崇拜"
+        },
+        {
+            "icon": "yihuo",
+            "text": "疑惑"
+        }
+    ],
+    "displayName": "约战·白之女王",
+    "imgClass": "small",
+    "name": "yuezhan·baizhinvwang",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

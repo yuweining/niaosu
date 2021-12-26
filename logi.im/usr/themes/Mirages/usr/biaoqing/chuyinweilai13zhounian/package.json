@@ -1,0 +1,90 @@
+{
+    "container": [
+        {
+            "icon": "baobao",
+            "text": "抱抱"
+        },
+        {
+            "icon": "nice",
+            "text": "nice"
+        },
+        {
+            "icon": "GKD",
+            "text": "GKD"
+        },
+        {
+            "icon": "wenhao",
+            "text": "问号"
+        },
+        {
+            "icon": "chijing",
+            "text": "吃惊"
+        },
+        {
+            "icon": "ganbei",
+            "text": "干杯"
+        },
+        {
+            "icon": "duanwan",
+            "text": "端碗"
+        },
+        {
+            "icon": "haipa",
+            "text": "害怕"
+        },
+        {
+            "icon": "jiayou",
+            "text": "加油"
+        },
+        {
+            "icon": "kule",
+            "text": "哭了"
+        },
+        {
+            "icon": "kunle",
+            "text": "困了"
+        },
+        {
+            "icon": "guilian",
+            "text": "鬼脸"
+        },
+        {
+            "icon": "qidai",
+            "text": "期待"
+        },
+        {
+            "icon": "shengqi",
+            "text": "生气"
+        },
+        {
+            "icon": "shuile",
+            "text": "睡了"
+        },
+        {
+            "icon": "weiqu",
+            "text": "委屈"
+        },
+        {
+            "icon": "wuyu",
+            "text": "无语"
+        },
+        {
+            "icon": "xihuan",
+            "text": "喜欢"
+        },
+        {
+            "icon": "xianqi",
+            "text": "嫌弃"
+        },
+        {
+            "icon": "zaijian",
+            "text": "再见"
+        }
+    ],
+    "displayName": "初音未来13周年",
+    "imgClass": "small",
+    "name": "chuyinweilai13zhounian",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

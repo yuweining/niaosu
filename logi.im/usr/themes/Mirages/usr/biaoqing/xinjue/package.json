@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "xinjue-anzhongguancha",
+            "text": "芯觉-暗中观察"
+        },
+        {
+            "icon": "xinjue-bu！",
+            "text": "芯觉-不！"
+        },
+        {
+            "icon": "xinjue-fadai",
+            "text": "芯觉-发呆"
+        },
+        {
+            "icon": "xinjue-fashe",
+            "text": "芯觉-发射"
+        },
+        {
+            "icon": "xinjue-leng",
+            "text": "芯觉-冷"
+        },
+        {
+            "icon": "xinjue-nibuduijin",
+            "text": "芯觉-你不对劲"
+        },
+        {
+            "icon": "xinjue-weiqu",
+            "text": "芯觉-委屈"
+        },
+        {
+            "icon": "xinjue-wuyu",
+            "text": "芯觉-无语"
+        },
+        {
+            "icon": "xinjue-xianqi",
+            "text": "芯觉-嫌弃"
+        },
+        {
+            "icon": "xinjue-zhongqiang",
+            "text": "芯觉-中枪"
+        }
+    ],
+    "displayName": "芯觉",
+    "imgClass": "small",
+    "name": "xinjue",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

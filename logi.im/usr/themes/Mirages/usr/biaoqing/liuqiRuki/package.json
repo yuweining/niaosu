@@ -1,0 +1,54 @@
+{
+    "container": [
+        {
+            "icon": "？？？",
+            "text": "？？？"
+        },
+        {
+            "icon": "bushiba",
+            "text": "不是吧"
+        },
+        {
+            "icon": "chigua",
+            "text": "吃瓜"
+        },
+        {
+            "icon": "ciji",
+            "text": "刺激"
+        },
+        {
+            "icon": "haixiu",
+            "text": "害羞"
+        },
+        {
+            "icon": "jingdaire",
+            "text": "惊呆惹"
+        },
+        {
+            "icon": "kuku",
+            "text": "哭哭"
+        },
+        {
+            "icon": "qigugu",
+            "text": "气鼓鼓"
+        },
+        {
+            "icon": "shentibeitaokong",
+            "text": "身体被掏空"
+        },
+        {
+            "icon": "sikaozhong",
+            "text": "思考中"
+        },
+        {
+            "icon": "wao",
+            "text": "哇哦"
+        }
+    ],
+    "displayName": "琉绮Ruki",
+    "imgClass": "small",
+    "name": "liuqiRuki",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

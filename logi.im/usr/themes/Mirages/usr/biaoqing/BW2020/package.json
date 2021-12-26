@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "huanying",
+            "text": "欢迎"
+        },
+        {
+            "icon": "qing",
+            "text": "请"
+        },
+        {
+            "icon": "nibimeile",
+            "text": "你币没了"
+        },
+        {
+            "icon": "nihaomeile",
+            "text": "你号没了"
+        },
+        {
+            "icon": "bangbango",
+            "text": "棒棒哦"
+        },
+        {
+            "icon": "woquandouyao",
+            "text": "我全都要"
+        },
+        {
+            "icon": "pinqiong",
+            "text": "贫穷"
+        },
+        {
+            "icon": "qidai",
+            "text": "期待"
+        },
+        {
+            "icon": "wotainanle",
+            "text": "我太难了"
+        },
+        {
+            "icon": "zhenjing",
+            "text": "震惊"
+        }
+    ],
+    "displayName": "BW2020",
+    "imgClass": "small",
+    "name": "BW2020",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

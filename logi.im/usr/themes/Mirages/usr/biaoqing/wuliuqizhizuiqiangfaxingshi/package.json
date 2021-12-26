@@ -1,0 +1,58 @@
+{
+    "container": [
+        {
+            "icon": "guancha",
+            "text": "观察"
+        },
+        {
+            "icon": "wuyu",
+            "text": "无语"
+        },
+        {
+            "icon": "ku",
+            "text": "哭"
+        },
+        {
+            "icon": "youchijing",
+            "text": "右吃惊"
+        },
+        {
+            "icon": "zuochijing",
+            "text": "左吃惊"
+        },
+        {
+            "icon": "wink",
+            "text": "wink"
+        },
+        {
+            "icon": "chaoxiong",
+            "text": "超凶"
+        },
+        {
+            "icon": "cuoshou",
+            "text": "搓手"
+        },
+        {
+            "icon": "shuai",
+            "text": "帅"
+        },
+        {
+            "icon": "meng",
+            "text": "懵"
+        },
+        {
+            "icon": "lengmo",
+            "text": "冷漠"
+        },
+        {
+            "icon": "xixi",
+            "text": "嘻嘻"
+        }
+    ],
+    "displayName": "伍六七之最强发型师",
+    "imgClass": "small",
+    "name": "wuliuqizhizuiqiangfaxingshi",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "dacall",
+            "text": "打call"
+        },
+        {
+            "icon": "22changge",
+            "text": "22唱歌"
+        },
+        {
+            "icon": "33changge",
+            "text": "33唱歌"
+        },
+        {
+            "icon": "zhiliao",
+            "text": "治疗"
+        },
+        {
+            "icon": "awsl",
+            "text": "awsl"
+        },
+        {
+            "icon": "dianzan",
+            "text": "点赞"
+        },
+        {
+            "icon": "heihua22",
+            "text": "黑化22"
+        },
+        {
+            "icon": "heihua33",
+            "text": "黑化33"
+        },
+        {
+            "icon": "shangbuff",
+            "text": "上buff"
+        },
+        {
+            "icon": "xiangtaozi",
+            "text": "想桃子"
+        }
+    ],
+    "displayName": "BML云LIVE",
+    "imgClass": "small",
+    "name": "BMLyunLIVE",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

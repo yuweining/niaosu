@@ -1,0 +1,74 @@
+{
+    "container": [
+        {
+            "icon": "liekai",
+            "text": "裂开"
+        },
+        {
+            "icon": "lvelvelve",
+            "text": "略略略"
+        },
+        {
+            "icon": "guiqiu",
+            "text": "跪求"
+        },
+        {
+            "icon": "sesefadou",
+            "text": "瑟瑟发抖"
+        },
+        {
+            "icon": "liflag",
+            "text": "立flag"
+        },
+        {
+            "icon": "gouliang",
+            "text": "狗粮"
+        },
+        {
+            "icon": "ningmeng",
+            "text": "柠檬"
+        },
+        {
+            "icon": "xindong",
+            "text": "心动"
+        },
+        {
+            "icon": "heng",
+            "text": "哼"
+        },
+        {
+            "icon": "tuxie",
+            "text": "吐血"
+        },
+        {
+            "icon": "nule",
+            "text": "怒了"
+        },
+        {
+            "icon": "ruoxiaokelian",
+            "text": "弱小可怜"
+        },
+        {
+            "icon": "kesiwole",
+            "text": "磕死我了"
+        },
+        {
+            "icon": "gouzhu",
+            "text": "苟住"
+        },
+        {
+            "icon": "jinzhang",
+            "text": "紧张"
+        },
+        {
+            "icon": "yaoweiba",
+            "text": "摇尾巴"
+        }
+    ],
+    "displayName": "我在皇宫当巨巨",
+    "imgClass": "small",
+    "name": "wozaihuanggongdangjuju",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

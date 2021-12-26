@@ -1,0 +1,70 @@
+{
+    "container": [
+        {
+            "icon": "chiyingtao",
+            "text": "吃樱桃"
+        },
+        {
+            "icon": "chongchongchong",
+            "text": "冲冲冲"
+        },
+        {
+            "icon": "daku",
+            "text": "大哭"
+        },
+        {
+            "icon": "haixiu",
+            "text": "害羞"
+        },
+        {
+            "icon": "huachi",
+            "text": "花痴"
+        },
+        {
+            "icon": "kaixin",
+            "text": "开心"
+        },
+        {
+            "icon": "jiaowozuoshi",
+            "text": "教我做事"
+        },
+        {
+            "icon": "shengqi",
+            "text": "生气"
+        },
+        {
+            "icon": "wei",
+            "text": "危"
+        },
+        {
+            "icon": "weiqu",
+            "text": "委屈"
+        },
+        {
+            "icon": "xihuan",
+            "text": "喜欢"
+        },
+        {
+            "icon": "xianqi",
+            "text": "嫌弃"
+        },
+        {
+            "icon": "yiwen",
+            "text": "疑问"
+        },
+        {
+            "icon": "zhenjing",
+            "text": "震惊"
+        },
+        {
+            "icon": "shengtian",
+            "text": "升天"
+        }
+    ],
+    "displayName": "多多poi",
+    "imgClass": "small",
+    "name": "duoduopoi",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

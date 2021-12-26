@@ -1,0 +1,210 @@
+{
+    "container": [
+        {
+            "icon": "baiyan",
+            "text": "白眼"
+        },
+        {
+            "icon": "doge",
+            "text": "doge"
+        },
+        {
+            "icon": "huaixiao",
+            "text": "坏笑"
+        },
+        {
+            "icon": "nanguo",
+            "text": "难过"
+        },
+        {
+            "icon": "shengqi",
+            "text": "生气"
+        },
+        {
+            "icon": "weiqu",
+            "text": "委屈"
+        },
+        {
+            "icon": "xieyanxiao",
+            "text": "斜眼笑"
+        },
+        {
+            "icon": "dai",
+            "text": "呆"
+        },
+        {
+            "icon": "fanu",
+            "text": "发怒"
+        },
+        {
+            "icon": "jingxia",
+            "text": "惊吓"
+        },
+        {
+            "icon": "outu",
+            "text": "呕吐"
+        },
+        {
+            "icon": "sikao",
+            "text": "思考"
+        },
+        {
+            "icon": "weixiao",
+            "text": "微笑"
+        },
+        {
+            "icon": "yiwen",
+            "text": "疑问"
+        },
+        {
+            "icon": "daku",
+            "text": "大哭"
+        },
+        {
+            "icon": "guzhang",
+            "text": "鼓掌"
+        },
+        {
+            "icon": "koubi",
+            "text": "抠鼻"
+        },
+        {
+            "icon": "qinqin",
+            "text": "亲亲"
+        },
+        {
+            "icon": "tiaopi",
+            "text": "调皮"
+        },
+        {
+            "icon": "xiaoku",
+            "text": "笑哭"
+        },
+        {
+            "icon": "yun",
+            "text": "晕"
+        },
+        {
+            "icon": "dianzan",
+            "text": "点赞"
+        },
+        {
+            "icon": "haixiu",
+            "text": "害羞"
+        },
+        {
+            "icon": "shuizhao",
+            "text": "睡着"
+        },
+        {
+            "icon": "se",
+            "text": "色"
+        },
+        {
+            "icon": "tuxie",
+            "text": "吐血"
+        },
+        {
+            "icon": "wunai",
+            "text": "无奈"
+        },
+        {
+            "icon": "zaijian",
+            "text": "再见"
+        },
+        {
+            "icon": "liuhan",
+            "text": "流汗"
+        },
+        {
+            "icon": "touxiao",
+            "text": "偷笑"
+        },
+        {
+            "icon": "zhuakuang",
+            "text": "抓狂"
+        },
+        {
+            "icon": "heirenwenhao",
+            "text": "黑人问号"
+        },
+        {
+            "icon": "kun",
+            "text": "困"
+        },
+        {
+            "icon": "dalian",
+            "text": "打脸"
+        },
+        {
+            "icon": "bizui",
+            "text": "闭嘴"
+        },
+        {
+            "icon": "bishi",
+            "text": "鄙视"
+        },
+        {
+            "icon": "miantian",
+            "text": "腼腆"
+        },
+        {
+            "icon": "chan",
+            "text": "馋"
+        },
+        {
+            "icon": "keai",
+            "text": "可爱"
+        },
+        {
+            "icon": "facai",
+            "text": "发财"
+        },
+        {
+            "icon": "shengbing",
+            "text": "生病"
+        },
+        {
+            "icon": "liubixue",
+            "text": "流鼻血"
+        },
+        {
+            "icon": "ganga",
+            "text": "尴尬"
+        },
+        {
+            "icon": "dalao",
+            "text": "大佬"
+        },
+        {
+            "icon": "liulei",
+            "text": "流泪"
+        },
+        {
+            "icon": "lengmo",
+            "text": "冷漠"
+        },
+        {
+            "icon": "zhoumei",
+            "text": "皱眉"
+        },
+        {
+            "icon": "guilian",
+            "text": "鬼脸"
+        },
+        {
+            "icon": "tiaokan",
+            "text": "调侃"
+        },
+        {
+            "icon": "mudengkoudai",
+            "text": "目瞪口呆"
+        }
+    ],
+    "displayName": "tv_小电视",
+    "imgClass": "small",
+    "name": "tv_xiaodianshi",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

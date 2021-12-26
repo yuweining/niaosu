@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "awsl",
+            "text": "awsl"
+        },
+        {
+            "icon": "gkd",
+            "text": "gkd"
+        },
+        {
+            "icon": "aileaile",
+            "text": "爱了爱了"
+        },
+        {
+            "icon": "chuibaolaopo",
+            "text": "吹爆老婆"
+        },
+        {
+            "icon": "congbuzhongjiang",
+            "text": "从不中奖"
+        },
+        {
+            "icon": "gongxizhege",
+            "text": "恭喜这个"
+        },
+        {
+            "icon": "meiqianle",
+            "text": "没钱了"
+        },
+        {
+            "icon": "jiuzhe",
+            "text": "就这"
+        },
+        {
+            "icon": "qianingmeng",
+            "text": "恰柠檬"
+        },
+        {
+            "icon": "xiangtaozi",
+            "text": "想桃子"
+        }
+    ],
+    "displayName": "2233电子喵",
+    "imgClass": "small",
+    "name": "2233dianzimiao",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

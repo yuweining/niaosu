@@ -1,0 +1,70 @@
+{
+    "container": [
+        {
+            "icon": "baituobaituo",
+            "text": "拜托拜托"
+        },
+        {
+            "icon": "bukeyi",
+            "text": "不可以"
+        },
+        {
+            "icon": "geiwoqian",
+            "text": "给我钱"
+        },
+        {
+            "icon": "hahaha",
+            "text": "哈哈哈"
+        },
+        {
+            "icon": "kugeinikan",
+            "text": "哭给你看"
+        },
+        {
+            "icon": "lijieyixia",
+            "text": "理解一下"
+        },
+        {
+            "icon": "lvelvelve",
+            "text": "略略略"
+        },
+        {
+            "icon": "jiumi",
+            "text": "啾咪"
+        },
+        {
+            "icon": "mie",
+            "text": "咩"
+        },
+        {
+            "icon": "nihenkeai",
+            "text": "你很可爱"
+        },
+        {
+            "icon": "bumanme",
+            "text": "不满么"
+        },
+        {
+            "icon": "wocuole",
+            "text": "我错了"
+        },
+        {
+            "icon": "chaofeng",
+            "text": "嘲讽"
+        },
+        {
+            "icon": "kimo",
+            "text": "kimo"
+        },
+        {
+            "icon": "chuobianbian",
+            "text": "戳便便"
+        }
+    ],
+    "displayName": "神楽Mea",
+    "imgClass": "small",
+    "name": "shenleMea",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

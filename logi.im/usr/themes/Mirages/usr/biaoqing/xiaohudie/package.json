@@ -1,0 +1,74 @@
+{
+    "container": [
+        {
+            "icon": "bixin",
+            "text": "比心"
+        },
+        {
+            "icon": "dianzan",
+            "text": "点赞"
+        },
+        {
+            "icon": "haobang",
+            "text": "好棒"
+        },
+        {
+            "icon": "haode",
+            "text": "好的"
+        },
+        {
+            "icon": "jiayou",
+            "text": "加油"
+        },
+        {
+            "icon": "lihaile",
+            "text": "厉害了"
+        },
+        {
+            "icon": "nn",
+            "text": "嗯嗯"
+        },
+        {
+            "icon": "nihao",
+            "text": "你好"
+        },
+        {
+            "icon": "shoudao",
+            "text": "收到"
+        },
+        {
+            "icon": "tiaozhanchenggong",
+            "text": "挑战成功"
+        },
+        {
+            "icon": "xiexie",
+            "text": "谢谢"
+        },
+        {
+            "icon": "xinkula",
+            "text": "辛苦啦"
+        },
+        {
+            "icon": "fendou",
+            "text": "奋斗"
+        },
+        {
+            "icon": "xueba",
+            "text": "学霸"
+        },
+        {
+            "icon": "xuezaishanghai",
+            "text": "学在上海"
+        },
+        {
+            "icon": "yiqixuexiya",
+            "text": "一起学习呀"
+        }
+    ],
+    "displayName": "小沪蝶",
+    "imgClass": "small",
+    "name": "xiaohudie",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

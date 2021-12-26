@@ -1,0 +1,66 @@
+{
+    "container": [
+        {
+            "icon": "xingxingyan",
+            "text": "星星眼"
+        },
+        {
+            "icon": "erhuaidou",
+            "text": "二胡爱豆"
+        },
+        {
+            "icon": "jingya",
+            "text": "惊讶"
+        },
+        {
+            "icon": "wenhao",
+            "text": "问号"
+        },
+        {
+            "icon": "weiyouyiganbei",
+            "text": "为友谊干杯"
+        },
+        {
+            "icon": "wusuowei",
+            "text": "无所谓"
+        },
+        {
+            "icon": "aojiaolian",
+            "text": "傲娇脸"
+        },
+        {
+            "icon": "tanqi",
+            "text": "叹气"
+        },
+        {
+            "icon": "anzhongguancha",
+            "text": "暗中观察"
+        },
+        {
+            "icon": "tuiyanjing",
+            "text": "推眼镜"
+        },
+        {
+            "icon": "qidao",
+            "text": "祈祷"
+        },
+        {
+            "icon": "jiayou",
+            "text": "加油"
+        },
+        {
+            "icon": "motou",
+            "text": "摸头"
+        },
+        {
+            "icon": "bixin",
+            "text": "比心"
+        }
+    ],
+    "displayName": "双生视界·花嫁",
+    "imgClass": "small",
+    "name": "shuangshengshijie·huajia",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

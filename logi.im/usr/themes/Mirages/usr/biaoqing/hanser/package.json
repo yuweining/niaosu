@@ -1,0 +1,102 @@
+{
+    "container": [
+        {
+            "icon": "chongya",
+            "text": "冲鸭"
+        },
+        {
+            "icon": "wenhao",
+            "text": "问号"
+        },
+        {
+            "icon": "damie",
+            "text": "打咩"
+        },
+        {
+            "icon": "anzhongguancha",
+            "text": "暗中观察"
+        },
+        {
+            "icon": "tongku",
+            "text": "痛哭"
+        },
+        {
+            "icon": "xiaotianshi",
+            "text": "小天使"
+        },
+        {
+            "icon": "huoniunai",
+            "text": "嚯牛奶"
+        },
+        {
+            "icon": "liupi",
+            "text": "流啤"
+        },
+        {
+            "icon": "nanyizhixin",
+            "text": "难以置信"
+        },
+        {
+            "icon": "tietie",
+            "text": "贴贴"
+        },
+        {
+            "icon": "okk",
+            "text": "okk"
+        },
+        {
+            "icon": "haoting",
+            "text": "好听"
+        },
+        {
+            "icon": "wanan",
+            "text": "晚安"
+        },
+        {
+            "icon": "peach",
+            "text": "peach"
+        },
+        {
+            "icon": "toumao",
+            "text": "头毛"
+        },
+        {
+            "icon": "awsl",
+            "text": "awsl"
+        },
+        {
+            "icon": "huaji",
+            "text": "滑稽"
+        },
+        {
+            "icon": "maoguaijingxia",
+            "text": "毛怪惊吓"
+        },
+        {
+            "icon": "maoguaikuku",
+            "text": "毛怪哭哭"
+        },
+        {
+            "icon": "songna",
+            "text": "怂呐"
+        },
+        {
+            "icon": "yingyingying",
+            "text": "嘤嘤嘤"
+        },
+        {
+            "icon": "zao",
+            "text": "早"
+        },
+        {
+            "icon": "lanqiu",
+            "text": "篮球"
+        }
+    ],
+    "displayName": "hanser",
+    "imgClass": "small",
+    "name": "hanser",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

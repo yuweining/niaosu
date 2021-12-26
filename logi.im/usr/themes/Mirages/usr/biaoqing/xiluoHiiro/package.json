@@ -1,0 +1,70 @@
+{
+    "container": [
+        {
+            "icon": "Hiipixiaolian",
+            "text": "Hii皮笑脸"
+        },
+        {
+            "icon": "wink",
+            "text": "wink"
+        },
+        {
+            "icon": "aojiao",
+            "text": "傲娇"
+        },
+        {
+            "icon": "ele",
+            "text": "饿了"
+        },
+        {
+            "icon": "ganxie",
+            "text": "感谢"
+        },
+        {
+            "icon": "haixiu",
+            "text": "害羞"
+        },
+        {
+            "icon": "keai",
+            "text": "可爱"
+        },
+        {
+            "icon": "kuxiaobude",
+            "text": "哭笑不得"
+        },
+        {
+            "icon": "leimu",
+            "text": "泪目"
+        },
+        {
+            "icon": "qinqin",
+            "text": "亲亲"
+        },
+        {
+            "icon": "shaokaishui",
+            "text": "烧开水"
+        },
+        {
+            "icon": "shengqi",
+            "text": "生气"
+        },
+        {
+            "icon": "wangniunai",
+            "text": "王牛奶"
+        },
+        {
+            "icon": "wangsuannai",
+            "text": "王酸奶"
+        },
+        {
+            "icon": "zhuangku",
+            "text": "装酷"
+        }
+    ],
+    "displayName": "希萝Hiiro",
+    "imgClass": "small",
+    "name": "xiluoHiiro",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

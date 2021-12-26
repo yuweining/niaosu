@@ -1,0 +1,70 @@
+{
+    "container": [
+        {
+            "icon": "OK",
+            "text": "OK"
+        },
+        {
+            "icon": "deyilian",
+            "text": "得意脸"
+        },
+        {
+            "icon": "haiduomo",
+            "text": "嗨多摩"
+        },
+        {
+            "icon": "huaq",
+            "text": "花q"
+        },
+        {
+            "icon": "huaiyi",
+            "text": "怀疑"
+        },
+        {
+            "icon": "jingya",
+            "text": "惊讶"
+        },
+        {
+            "icon": "nadiyi",
+            "text": "拿第一"
+        },
+        {
+            "icon": "tiancaitiancai",
+            "text": "天才天才"
+        },
+        {
+            "icon": "yaohuangyouyou",
+            "text": "摇晃悠悠"
+        },
+        {
+            "icon": "yuanlairuci",
+            "text": "原来如此"
+        },
+        {
+            "icon": "bixin",
+            "text": "比心"
+        },
+        {
+            "icon": "kuku",
+            "text": "哭哭"
+        },
+        {
+            "icon": "wuyu",
+            "text": "无语"
+        },
+        {
+            "icon": "yingyingying",
+            "text": "嘤嘤嘤"
+        },
+        {
+            "icon": "zhenjing",
+            "text": "震惊"
+        }
+    ],
+    "displayName": "Kizuna AI",
+    "imgClass": "small",
+    "name": "Kizuna AI",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

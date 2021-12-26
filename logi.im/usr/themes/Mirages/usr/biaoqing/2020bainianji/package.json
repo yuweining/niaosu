@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "haqi",
+            "text": "哈气"
+        },
+        {
+            "icon": "qidai",
+            "text": "期待"
+        },
+        {
+            "icon": "xiouqi",
+            "text": "吸欧气"
+        },
+        {
+            "icon": "linghongbao",
+            "text": "领红包"
+        },
+        {
+            "icon": "xiexielaoban",
+            "text": "谢谢老板"
+        },
+        {
+            "icon": "denglong",
+            "text": "灯笼"
+        },
+        {
+            "icon": "huoguo",
+            "text": "火锅"
+        },
+        {
+            "icon": "2020",
+            "text": "2020"
+        },
+        {
+            "icon": "hongbao",
+            "text": "红包"
+        },
+        {
+            "icon": "xinnianhao",
+            "text": "新年好"
+        }
+    ],
+    "displayName": "2020拜年祭",
+    "imgClass": "small",
+    "name": "2020bainianji",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

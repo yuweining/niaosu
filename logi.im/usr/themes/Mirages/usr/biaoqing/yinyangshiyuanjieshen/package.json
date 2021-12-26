@@ -1,0 +1,94 @@
+{
+    "container": [
+        {
+            "icon": "nigaoshang",
+            "text": "你高尚"
+        },
+        {
+            "icon": "caiku",
+            "text": "菜哭"
+        },
+        {
+            "icon": "jiemei！",
+            "text": "姐妹！"
+        },
+        {
+            "icon": "woshentihao",
+            "text": "我身体好"
+        },
+        {
+            "icon": "wokedaole",
+            "text": "我磕到了"
+        },
+        {
+            "icon": "aixinfashe",
+            "text": "爱心发射"
+        },
+        {
+            "icon": "kuaiqujiehun",
+            "text": "快去结婚"
+        },
+        {
+            "icon": "qinyige",
+            "text": "亲一个"
+        },
+        {
+            "icon": "KWSL",
+            "text": "KWSL"
+        },
+        {
+            "icon": "yuanjieshenda",
+            "text": "缘结神哒"
+        },
+        {
+            "icon": "gaijiehunle",
+            "text": "该结婚了"
+        },
+        {
+            "icon": "xiongdiqing？",
+            "text": "兄弟情？"
+        },
+        {
+            "icon": "biesaole",
+            "text": "别骚了"
+        },
+        {
+            "icon": "kaixin",
+            "text": "开心"
+        },
+        {
+            "icon": "zaiyiqi",
+            "text": "在一起"
+        },
+        {
+            "icon": "qidai",
+            "text": "期待"
+        },
+        {
+            "icon": "duohereshui",
+            "text": "多喝热水"
+        },
+        {
+            "icon": "youliangbu",
+            "text": "有粮不"
+        },
+        {
+            "icon": "dengliangzhong",
+            "text": "等粮中"
+        },
+        {
+            "icon": "qiunichanliang",
+            "text": "求你产粮"
+        },
+        {
+            "icon": "wobuhuola",
+            "text": "我不活啦"
+        }
+    ],
+    "displayName": "阴阳师缘结神",
+    "imgClass": "small",
+    "name": "yinyangshiyuanjieshen",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

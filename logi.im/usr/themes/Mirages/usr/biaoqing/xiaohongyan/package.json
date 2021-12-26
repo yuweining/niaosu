@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "shengqi",
+            "text": "生气"
+        },
+        {
+            "icon": "bixue",
+            "text": "鼻血"
+        },
+        {
+            "icon": "chaoxiao",
+            "text": "嘲笑"
+        },
+        {
+            "icon": "chigua",
+            "text": "吃瓜"
+        },
+        {
+            "icon": "chijing",
+            "text": "吃惊"
+        },
+        {
+            "icon": "daku",
+            "text": "大哭"
+        },
+        {
+            "icon": "fennu",
+            "text": "愤怒"
+        },
+        {
+            "icon": "xianqi",
+            "text": "嫌弃"
+        },
+        {
+            "icon": "xiangshou",
+            "text": "享受"
+        },
+        {
+            "icon": "dianzan",
+            "text": "点赞"
+        }
+    ],
+    "displayName": "小红眼",
+    "imgClass": "small",
+    "name": "xiaohongyan",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

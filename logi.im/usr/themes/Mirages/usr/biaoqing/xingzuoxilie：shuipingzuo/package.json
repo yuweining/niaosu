@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "buzhuo",
+            "text": "捕捉"
+        },
+        {
+            "icon": "guanshui",
+            "text": "灌水"
+        },
+        {
+            "icon": "haoleng",
+            "text": "好冷"
+        },
+        {
+            "icon": "hereshui",
+            "text": "喝热水"
+        },
+        {
+            "icon": "kuku",
+            "text": "哭哭"
+        },
+        {
+            "icon": "kunle",
+            "text": "困了"
+        },
+        {
+            "icon": "shuipingzhengao",
+            "text": "水平真高"
+        },
+        {
+            "icon": "tietie",
+            "text": "贴贴"
+        },
+        {
+            "icon": "zaole！！",
+            "text": "糟了！！"
+        },
+        {
+            "icon": "zhukou",
+            "text": "住口"
+        }
+    ],
+    "displayName": "星座系列：水瓶座",
+    "imgClass": "small",
+    "name": "xingzuoxilie：shuipingzuo",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

@@ -1,0 +1,118 @@
+{
+    "container": [
+        {
+            "icon": "bixin",
+            "text": "比心"
+        },
+        {
+            "icon": "chigua",
+            "text": "吃瓜"
+        },
+        {
+            "icon": "dacall",
+            "text": "打call"
+        },
+        {
+            "icon": "chongya",
+            "text": "冲鸭"
+        },
+        {
+            "icon": "dai",
+            "text": "呆"
+        },
+        {
+            "icon": "deyi",
+            "text": "得意"
+        },
+        {
+            "icon": "ganbei",
+            "text": "干杯"
+        },
+        {
+            "icon": "haixiu",
+            "text": "害羞"
+        },
+        {
+            "icon": "heihua",
+            "text": "黑化"
+        },
+        {
+            "icon": "jingshendousou",
+            "text": "精神抖擞"
+        },
+        {
+            "icon": "ku",
+            "text": "哭"
+        },
+        {
+            "icon": "maimeng",
+            "text": "卖萌"
+        },
+        {
+            "icon": "qianqian",
+            "text": "钱钱"
+        },
+        {
+            "icon": "renzhen",
+            "text": "认真"
+        },
+        {
+            "icon": "se",
+            "text": "色"
+        },
+        {
+            "icon": "shuijiao",
+            "text": "睡觉"
+        },
+        {
+            "icon": "wanan",
+            "text": "晚安"
+        },
+        {
+            "icon": "wuyu",
+            "text": "无语"
+        },
+        {
+            "icon": "xianqi",
+            "text": "嫌弃"
+        },
+        {
+            "icon": "xiaogongzhu",
+            "text": "小公主"
+        },
+        {
+            "icon": "ye",
+            "text": "耶"
+        },
+        {
+            "icon": "yihuo",
+            "text": "疑惑"
+        },
+        {
+            "icon": "zhenjing",
+            "text": "震惊"
+        },
+        {
+            "icon": "zui",
+            "text": "醉"
+        },
+        {
+            "icon": "qidai",
+            "text": "期待"
+        },
+        {
+            "icon": "xinxu",
+            "text": "心虚"
+        },
+        {
+            "icon": "ye",
+            "text": "叶"
+        }
+    ],
+    "displayName": "少前小剧场",
+    "imgClass": "small",
+    "name": "shaoqianxiaojuchang",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

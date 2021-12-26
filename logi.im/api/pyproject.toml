@@ -1,0 +1,22 @@
+[tool.poetry]
+authors = ["logi"]
+description = ""
+name = "api"
+version = "0.1.0"
+
+[tool.poetry.dependencies]
+Pillow = "^8.2.0"
+python = "^3.9"
+requests = "^2.25.1"
+
+[tool.poetry.dev-dependencies]
+autopep8 = "^1.5.6"
+rope = "^0.19.0"
+
+[build-system]
+build-backend = "poetry.core.masonry.api"
+requires = ["poetry-core>=1.0.0"]
+
+# https://github.com/python-poetry/poetry/issues/108#issuecomment-628681234
+[virtualenvs]
+in-project = true

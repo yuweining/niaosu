@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "kuzai",
+            "text": "酷仔"
+        },
+        {
+            "icon": "zanle",
+            "text": "赞了"
+        },
+        {
+            "icon": "anzhongguancha",
+            "text": "暗中观察"
+        },
+        {
+            "icon": "memeda",
+            "text": "么么哒"
+        },
+        {
+            "icon": "kuku",
+            "text": "哭哭"
+        },
+        {
+            "icon": "ele",
+            "text": "饿了"
+        },
+        {
+            "icon": "wenhao",
+            "text": "问号"
+        },
+        {
+            "icon": "heihei",
+            "text": "嘿嘿"
+        },
+        {
+            "icon": "maimeng",
+            "text": "卖萌"
+        },
+        {
+            "icon": "miao",
+            "text": "喵"
+        }
+    ],
+    "displayName": "喵",
+    "imgClass": "small",
+    "name": "miao",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

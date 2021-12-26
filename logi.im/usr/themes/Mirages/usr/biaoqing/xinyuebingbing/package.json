@@ -1,0 +1,70 @@
+{
+    "container": [
+        {
+            "icon": "awsl",
+            "text": "awsl"
+        },
+        {
+            "icon": "daisuki",
+            "text": "呆suki"
+        },
+        {
+            "icon": "ganbei",
+            "text": "干杯"
+        },
+        {
+            "icon": "hecha",
+            "text": "喝茶"
+        },
+        {
+            "icon": "huonaicha",
+            "text": "嚯奶茶"
+        },
+        {
+            "icon": "mangmangmang",
+            "text": "忙忙忙"
+        },
+        {
+            "icon": "maolenghan",
+            "text": "冒冷汗"
+        },
+        {
+            "icon": "shengqi",
+            "text": "生气"
+        },
+        {
+            "icon": "songniuroujiang",
+            "text": "送牛肉酱"
+        },
+        {
+            "icon": "tanqi",
+            "text": "叹气"
+        },
+        {
+            "icon": "tantou",
+            "text": "探头"
+        },
+        {
+            "icon": "wangwangsuibingbing",
+            "text": "汪汪碎冰冰"
+        },
+        {
+            "icon": "wochiningmeng",
+            "text": "我吃柠檬"
+        },
+        {
+            "icon": "yihuo",
+            "text": "疑惑"
+        },
+        {
+            "icon": "zuile",
+            "text": "醉了"
+        }
+    ],
+    "displayName": "新月冰冰",
+    "imgClass": "small",
+    "name": "xinyuebingbing",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

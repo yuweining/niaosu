@@ -1,0 +1,78 @@
+{
+    "container": [
+        {
+            "icon": "aojiao",
+            "text": "傲娇"
+        },
+        {
+            "icon": "chibaoqunzhong",
+            "text": "吃包群众"
+        },
+        {
+            "icon": "chiyao",
+            "text": "吃药"
+        },
+        {
+            "icon": "huaji",
+            "text": "滑稽"
+        },
+        {
+            "icon": "hahaha",
+            "text": "哈哈哈"
+        },
+        {
+            "icon": "kantouyiqie",
+            "text": "看透一切"
+        },
+        {
+            "icon": "dacall",
+            "text": "打call"
+        },
+        {
+            "icon": "qianpai",
+            "text": "前排"
+        },
+        {
+            "icon": "quba",
+            "text": "去吧"
+        },
+        {
+            "icon": "lengmo",
+            "text": "冷漠"
+        },
+        {
+            "icon": "keyi",
+            "text": "可以"
+        },
+        {
+            "icon": "xianzhuo",
+            "text": "掀桌"
+        },
+        {
+            "icon": "xiaomieni",
+            "text": "消灭你"
+        },
+        {
+            "icon": "yinyangxiansheng",
+            "text": "阴阳先生"
+        },
+        {
+            "icon": "wuyanyidui",
+            "text": "无言以对"
+        },
+        {
+            "icon": "？？？",
+            "text": "？？？"
+        },
+        {
+            "icon": "ainio",
+            "text": "爱你哦"
+        }
+    ],
+    "displayName": "洛天依",
+    "imgClass": "small",
+    "name": "luotianyi",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

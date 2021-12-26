@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "aishangle",
+            "text": "爱上了"
+        },
+        {
+            "icon": "heshan",
+            "text": "和善"
+        },
+        {
+            "icon": "chitu",
+            "text": "吃土"
+        },
+        {
+            "icon": "taoerduo",
+            "text": "掏耳朵"
+        },
+        {
+            "icon": "chongchongchong",
+            "text": "冲冲冲"
+        },
+        {
+            "icon": "dashiqiu",
+            "text": "大师球"
+        },
+        {
+            "icon": "heng",
+            "text": "哼"
+        },
+        {
+            "icon": "heieshili",
+            "text": "黑恶势力"
+        },
+        {
+            "icon": "wokeyi",
+            "text": "我可以"
+        },
+        {
+            "icon": "sanlianne",
+            "text": "三连呢"
+        }
+    ],
+    "displayName": "乐正绫五周年生日",
+    "imgClass": "small",
+    "name": "lezhenglingwuzhounianshengri",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

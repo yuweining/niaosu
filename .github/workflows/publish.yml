@@ -1,0 +1,58 @@
+name: Publish to NPM
+
+env:
+  TZ: Asia/Shanghai
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 19 * * *"
+
+jobs:
+  publish-npm:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          ref: master
+
+      - name: Setup python and poetry
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - uses: Gr1N/setup-poetry@v4
+
+      - name: Setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14
+          registry-url: https://registry.npmjs.org/
+
+      - name: Generate data
+        run: |
+          cd logi.im/api
+          poetry install
+          poetry run python index.py
+
+      - name: Update version
+        run: node --experimental-modules index.mjs
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -am "Update api data"
+          git push origin master
+
+      - name: Publish package
+        run: |
+          npm version patch
+          npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.npm_token}}
+
+      - name: Refresh cdn
+        run: |
+          cd logi.im/api
+          poetry run python index.py r

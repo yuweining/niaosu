@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "zixiyuedu",
+            "text": "仔细阅读"
+        },
+        {
+            "icon": "dage",
+            "text": "大哥"
+        },
+        {
+            "icon": "datangyanyiwang",
+            "text": "大唐颜艺王"
+        },
+        {
+            "icon": "jiaomian",
+            "text": "绞面"
+        },
+        {
+            "icon": "jiusaoweiwu",
+            "text": "九嫂威武"
+        },
+        {
+            "icon": "nvdanshu",
+            "text": "女单书"
+        },
+        {
+            "icon": "sanjianqifa",
+            "text": "三箭齐发"
+        },
+        {
+            "icon": "shengren",
+            "text": "圣人"
+        },
+        {
+            "icon": "buyaoa",
+            "text": "不要啊"
+        },
+        {
+            "icon": "xiyangxiabenpao",
+            "text": "夕阳下奔跑"
+        }
+    ],
+    "displayName": "拾忆长安·明月几时有",
+    "imgClass": "small",
+    "name": "shiyichangan·mingyuejishiyou",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

@@ -1,0 +1,74 @@
+{
+    "container": [
+        {
+            "icon": "gugugu",
+            "text": "咕咕咕"
+        },
+        {
+            "icon": "baobao",
+            "text": "抱抱"
+        },
+        {
+            "icon": "youxiu",
+            "text": "优秀"
+        },
+        {
+            "icon": "hahaha",
+            "text": "哈哈哈"
+        },
+        {
+            "icon": "heng",
+            "text": "哼"
+        },
+        {
+            "icon": "kanshenme",
+            "text": "看什么"
+        },
+        {
+            "icon": "chaofeng",
+            "text": "嘲讽"
+        },
+        {
+            "icon": "aini",
+            "text": "爱你"
+        },
+        {
+            "icon": "OTL",
+            "text": "OTL"
+        },
+        {
+            "icon": "xiexie",
+            "text": "谢谢"
+        },
+        {
+            "icon": "anzhongguancha",
+            "text": "暗中观察"
+        },
+        {
+            "icon": "guaiwoge",
+            "text": "怪我咯"
+        },
+        {
+            "icon": "nn",
+            "text": "嗯嗯"
+        },
+        {
+            "icon": "ding",
+            "text": "盯"
+        },
+        {
+            "icon": "meiguanxi",
+            "text": "没关系"
+        },
+        {
+            "icon": "wanan",
+            "text": "晚安"
+        }
+    ],
+    "displayName": "约战：精灵再临",
+    "imgClass": "small",
+    "name": "yuezhan：jinglingzailin",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

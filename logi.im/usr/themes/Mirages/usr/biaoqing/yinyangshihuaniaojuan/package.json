@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "bielanwo",
+            "text": "别拦我"
+        },
+        {
+            "icon": "chong",
+            "text": "冲"
+        },
+        {
+            "icon": "jichou",
+            "text": "记仇"
+        },
+        {
+            "icon": "kuawo",
+            "text": "夸我"
+        },
+        {
+            "icon": "meiyankan",
+            "text": "美眼看"
+        },
+        {
+            "icon": "nixingnihua",
+            "text": "你行你画"
+        },
+        {
+            "icon": "wanan",
+            "text": "晚安"
+        },
+        {
+            "icon": "wobaohuni",
+            "text": "我保护你"
+        },
+        {
+            "icon": "wozai",
+            "text": "我在"
+        },
+        {
+            "icon": "yaoma",
+            "text": "要吗"
+        }
+    ],
+    "displayName": "阴阳师花鸟卷",
+    "imgClass": "small",
+    "name": "yinyangshihuaniaojuan",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

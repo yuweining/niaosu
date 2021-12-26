@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "buhaoyisi",
+            "text": "不好意思"
+        },
+        {
+            "icon": "guaiqiao",
+            "text": "乖巧"
+        },
+        {
+            "icon": "laiwanle",
+            "text": "来晚了"
+        },
+        {
+            "icon": "jingjingkanni",
+            "text": "静静看你"
+        },
+        {
+            "icon": "yijiansanlian",
+            "text": "一键三连"
+        },
+        {
+            "icon": "chuinixiongkou",
+            "text": "捶你胸口"
+        },
+        {
+            "icon": "qidai",
+            "text": "期待"
+        },
+        {
+            "icon": "xiaofafa",
+            "text": "小fafa"
+        },
+        {
+            "icon": "buxing",
+            "text": "不行"
+        },
+        {
+            "icon": "menglidouyou",
+            "text": "梦里都有"
+        }
+    ],
+    "displayName": "言和7th生日纪念",
+    "imgClass": "small",
+    "name": "yanhe7thshengrijinian",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

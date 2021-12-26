@@ -1,0 +1,74 @@
+{
+    "container": [
+        {
+            "icon": "hecha",
+            "text": "喝茶"
+        },
+        {
+            "icon": "baojing",
+            "text": "报警"
+        },
+        {
+            "icon": "daku",
+            "text": "大哭"
+        },
+        {
+            "icon": "ditou",
+            "text": "低头"
+        },
+        {
+            "icon": "hahahaha",
+            "text": "哈哈哈哈"
+        },
+        {
+            "icon": "siling",
+            "text": "司令"
+        },
+        {
+            "icon": "sahua",
+            "text": "撒花"
+        },
+        {
+            "icon": "tanshou",
+            "text": "摊手"
+        },
+        {
+            "icon": "wenhao",
+            "text": "问号"
+        },
+        {
+            "icon": "tang",
+            "text": "躺"
+        },
+        {
+            "icon": "wuyu",
+            "text": "无语"
+        },
+        {
+            "icon": "yingyuan",
+            "text": "应援"
+        },
+        {
+            "icon": "NO",
+            "text": "NO"
+        },
+        {
+            "icon": "OK",
+            "text": "OK"
+        },
+        {
+            "icon": "chigua",
+            "text": "吃瓜"
+        },
+        {
+            "icon": "buzhuo",
+            "text": "捕捉"
+        }
+    ],
+    "displayName": "小A和小B",
+    "imgClass": "small",
+    "name": "xiaoAhexiaoB",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

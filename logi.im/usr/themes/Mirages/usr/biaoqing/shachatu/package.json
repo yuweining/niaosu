@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "baibai",
+            "text": "拜拜"
+        },
+        {
+            "icon": "chigua",
+            "text": "吃瓜"
+        },
+        {
+            "icon": "deyi",
+            "text": "得意"
+        },
+        {
+            "icon": "kule",
+            "text": "哭了"
+        },
+        {
+            "icon": "lengmo",
+            "text": "冷漠"
+        },
+        {
+            "icon": "qingxingdian",
+            "text": "清醒点"
+        },
+        {
+            "icon": "qingshuo",
+            "text": "请说"
+        },
+        {
+            "icon": "wenhao",
+            "text": "问号"
+        },
+        {
+            "icon": "xianqi",
+            "text": "嫌弃"
+        },
+        {
+            "icon": "zaima",
+            "text": "在吗"
+        }
+    ],
+    "displayName": "沙茶兔",
+    "imgClass": "small",
+    "name": "shachatu",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

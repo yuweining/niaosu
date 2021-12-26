@@ -1,0 +1,74 @@
+{
+    "container": [
+        {
+            "icon": "bukeqi",
+            "text": "不客气"
+        },
+        {
+            "icon": "lailelaile",
+            "text": "来了来了"
+        },
+        {
+            "icon": "haixiu",
+            "text": "害羞"
+        },
+        {
+            "icon": "baobao",
+            "text": "抱抱"
+        },
+        {
+            "icon": "jiabankuaile",
+            "text": "加班快乐"
+        },
+        {
+            "icon": "xiabanla",
+            "text": "下班啦"
+        },
+        {
+            "icon": "kaixin",
+            "text": "开心"
+        },
+        {
+            "icon": "hahahahaha",
+            "text": "哈哈哈哈哈"
+        },
+        {
+            "icon": "rangwoxiangxiang",
+            "text": "让我想想"
+        },
+        {
+            "icon": "wanan",
+            "text": "晚安"
+        },
+        {
+            "icon": "zaoan",
+            "text": "早安"
+        },
+        {
+            "icon": "wao",
+            "text": "哇哦"
+        },
+        {
+            "icon": "buhaoyisi",
+            "text": "不好意思"
+        },
+        {
+            "icon": "zhoumoyukuai",
+            "text": "周末愉快"
+        },
+        {
+            "icon": "qingduozhijiao",
+            "text": "请多指教"
+        },
+        {
+            "icon": "xuexiqiangguo",
+            "text": "学习强国"
+        }
+    ],
+    "displayName": "学习委员小沪蝶2",
+    "imgClass": "small",
+    "name": "xuexiweiyuanxiaohudie2",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

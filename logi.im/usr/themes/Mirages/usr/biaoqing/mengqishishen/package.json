@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "awsl",
+            "text": "awsl"
+        },
+        {
+            "icon": "henaicha",
+            "text": "喝奶茶"
+        },
+        {
+            "icon": "jiajitui",
+            "text": "加鸡腿"
+        },
+        {
+            "icon": "sajiao",
+            "text": "撒娇"
+        },
+        {
+            "icon": "xiu",
+            "text": "秀"
+        },
+        {
+            "icon": "wei",
+            "text": "危"
+        },
+        {
+            "icon": "zhongdu",
+            "text": "中毒"
+        },
+        {
+            "icon": "zhujuebuff",
+            "text": "主角buff"
+        },
+        {
+            "icon": "chan",
+            "text": "馋"
+        },
+        {
+            "icon": "baole",
+            "text": "饱了"
+        }
+    ],
+    "displayName": "萌妻食神",
+    "imgClass": "small",
+    "name": "mengqishishen",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

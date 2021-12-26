@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "haojiahuo",
+            "text": "好家伙"
+        },
+        {
+            "icon": "langqilai！",
+            "text": "浪起来！"
+        },
+        {
+            "icon": "leguan",
+            "text": "乐观"
+        },
+        {
+            "icon": "liaoni",
+            "text": "撩你"
+        },
+        {
+            "icon": "renshiyixia",
+            "text": "认识一下"
+        },
+        {
+            "icon": "suibian",
+            "text": "随便"
+        },
+        {
+            "icon": "tietie",
+            "text": "贴贴"
+        },
+        {
+            "icon": "turanxiaoshi",
+            "text": "突然消失"
+        },
+        {
+            "icon": "zhenmafan",
+            "text": "真麻烦"
+        },
+        {
+            "icon": "ziyouwansui！",
+            "text": "自由万岁！"
+        }
+    ],
+    "displayName": "星座系列：射手座",
+    "imgClass": "small",
+    "name": "xingzuoxilie：sheshouzuo",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

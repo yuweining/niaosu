@@ -1,0 +1,70 @@
+{
+    "container": [
+        {
+            "icon": "bajibaji",
+            "text": "吧唧吧唧"
+        },
+        {
+            "icon": "aoye",
+            "text": "熬夜"
+        },
+        {
+            "icon": "leimu",
+            "text": "泪目"
+        },
+        {
+            "icon": "guaiqiao",
+            "text": "乖巧"
+        },
+        {
+            "icon": "haoe",
+            "text": "好饿"
+        },
+        {
+            "icon": "jinzhang",
+            "text": "紧张"
+        },
+        {
+            "icon": "pu",
+            "text": "噗"
+        },
+        {
+            "icon": "shengqi",
+            "text": "生气"
+        },
+        {
+            "icon": "weiqu",
+            "text": "委屈"
+        },
+        {
+            "icon": "wochaokeai",
+            "text": "我超可爱"
+        },
+        {
+            "icon": "wolaile！",
+            "text": "我来了！"
+        },
+        {
+            "icon": "youyisi",
+            "text": "有意思"
+        },
+        {
+            "icon": "yuanqimanman",
+            "text": "元气满满"
+        },
+        {
+            "icon": "zhaizaijia",
+            "text": "宅在家"
+        },
+        {
+            "icon": "zhenmifenxi",
+            "text": "缜密分析"
+        }
+    ],
+    "displayName": "七濑胡桃",
+    "imgClass": "small",
+    "name": "qilaihutao",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

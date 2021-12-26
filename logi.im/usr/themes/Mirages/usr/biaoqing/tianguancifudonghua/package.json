@@ -1,0 +1,90 @@
+{
+    "container": [
+        {
+            "icon": "？？？",
+            "text": "？？？"
+        },
+        {
+            "icon": "caihongpi",
+            "text": "彩虹屁"
+        },
+        {
+            "icon": "chaonengli",
+            "text": "钞能力"
+        },
+        {
+            "icon": "haixiu",
+            "text": "害羞"
+        },
+        {
+            "icon": "ku",
+            "text": "哭"
+        },
+        {
+            "icon": "liule",
+            "text": "溜了"
+        },
+        {
+            "icon": "manliangaoxing",
+            "text": "满脸高兴"
+        },
+        {
+            "icon": "pinqiong",
+            "text": "贫穷"
+        },
+        {
+            "icon": "qingmanyong",
+            "text": "请慢用"
+        },
+        {
+            "icon": "turanchuxian",
+            "text": "突然出现"
+        },
+        {
+            "icon": "xihuan",
+            "text": "喜欢"
+        },
+        {
+            "icon": "dianzan",
+            "text": "点赞"
+        },
+        {
+            "icon": "ganga",
+            "text": "尴尬"
+        },
+        {
+            "icon": "jizhiruwo",
+            "text": "机智如我"
+        },
+        {
+            "icon": "jingjingkanzheni",
+            "text": "静静看着你"
+        },
+        {
+            "icon": "kanxingxing",
+            "text": "看星星"
+        },
+        {
+            "icon": "woliekaile",
+            "text": "我裂开了"
+        },
+        {
+            "icon": "kelianxixi",
+            "text": "可怜兮兮"
+        },
+        {
+            "icon": "qichuangla",
+            "text": "起床啦"
+        },
+        {
+            "icon": "gongzhubao",
+            "text": "公主抱"
+        }
+    ],
+    "displayName": "天官赐福动画",
+    "imgClass": "small",
+    "name": "tianguancifudonghua",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

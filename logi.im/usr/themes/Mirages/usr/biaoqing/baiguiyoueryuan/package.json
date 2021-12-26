@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "jiayou",
+            "text": "加油"
+        },
+        {
+            "icon": "jingya",
+            "text": "惊讶"
+        },
+        {
+            "icon": "ganga",
+            "text": "尴尬"
+        },
+        {
+            "icon": "puchi",
+            "text": "噗嗤"
+        },
+        {
+            "icon": "qidouleng",
+            "text": "气抖冷"
+        },
+        {
+            "icon": "dianzan",
+            "text": "点赞"
+        },
+        {
+            "icon": "xiaowenhao",
+            "text": "小问号"
+        },
+        {
+            "icon": "yunle",
+            "text": "晕了"
+        },
+        {
+            "icon": "kuku",
+            "text": "哭哭"
+        },
+        {
+            "icon": "shengqi",
+            "text": "生气"
+        }
+    ],
+    "displayName": "百鬼幼儿园",
+    "imgClass": "small",
+    "name": "baiguiyoueryuan",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

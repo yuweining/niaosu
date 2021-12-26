@@ -1,0 +1,70 @@
+{
+    "container": [
+        {
+            "icon": "chenggongrushui",
+            "text": "成功入水"
+        },
+        {
+            "icon": "xiaowenhao",
+            "text": "小问号"
+        },
+        {
+            "icon": "chongfeng",
+            "text": "冲锋"
+        },
+        {
+            "icon": "haowuyiyi",
+            "text": "毫无意义"
+        },
+        {
+            "icon": "heishouyuanli",
+            "text": "黑手远离"
+        },
+        {
+            "icon": "five",
+            "text": "five"
+        },
+        {
+            "icon": "lzxx",
+            "text": "lzxx"
+        },
+        {
+            "icon": "huochewang",
+            "text": "火车王"
+        },
+        {
+            "icon": "jiudade",
+            "text": "就打德"
+        },
+        {
+            "icon": "tianna",
+            "text": "天呐"
+        },
+        {
+            "icon": "wusuoweiju",
+            "text": "无所畏惧"
+        },
+        {
+            "icon": "xiaciwoqing",
+            "text": "下次我请"
+        },
+        {
+            "icon": "weilebuluo",
+            "text": "为了部落"
+        },
+        {
+            "icon": "weilelianmeng",
+            "text": "为了联盟"
+        },
+        {
+            "icon": "zixunsilu",
+            "text": "自寻死路"
+        }
+    ],
+    "displayName": "魔兽世界·暗影国度",
+    "imgClass": "small",
+    "name": "moshoushijie·anyingguodu",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

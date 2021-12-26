@@ -1,0 +1,34 @@
+{
+    "container": [
+        {
+            "icon": "wenhao",
+            "text": "问号"
+        },
+        {
+            "icon": "chengxinhudian",
+            "text": "诚信互点"
+        },
+        {
+            "icon": "zheciyiding",
+            "text": "这次一定"
+        },
+        {
+            "icon": "woquandouyao",
+            "text": "我全都要"
+        },
+        {
+            "icon": "xiexielaoban",
+            "text": "谢谢老板"
+        },
+        {
+            "icon": "yudingyishishuang",
+            "text": "预定一时爽"
+        }
+    ],
+    "displayName": "三周年恋曲",
+    "imgClass": "small",
+    "name": "sanzhounianlianqu",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

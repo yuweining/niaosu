@@ -1,0 +1,26 @@
+{
+    "container": [
+        {
+            "icon": "1",
+            "text": "1"
+        },
+        {
+            "icon": "2",
+            "text": "2"
+        },
+        {
+            "icon": "3",
+            "text": "3"
+        },
+        {
+            "icon": "4",
+            "text": "4"
+        }
+    ],
+    "displayName": "2021拜年纪-镜像",
+    "imgClass": "small",
+    "name": "2021bainianji-jingxiang",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

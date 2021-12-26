@@ -1,0 +1,90 @@
+{
+    "container": [
+        {
+            "icon": "huaji",
+            "text": "滑稽"
+        },
+        {
+            "icon": "baodatui",
+            "text": "抱大腿"
+        },
+        {
+            "icon": "buxie",
+            "text": "不屑"
+        },
+        {
+            "icon": "cangtianna",
+            "text": "苍天呐"
+        },
+        {
+            "icon": "wotule",
+            "text": "我秃了"
+        },
+        {
+            "icon": "deyi",
+            "text": "得意"
+        },
+        {
+            "icon": "fangle",
+            "text": "方了"
+        },
+        {
+            "icon": "kaixin",
+            "text": "开心"
+        },
+        {
+            "icon": "outu",
+            "text": "呕吐"
+        },
+        {
+            "icon": "paoxiao",
+            "text": "咆哮"
+        },
+        {
+            "icon": "qiaoqiaohua",
+            "text": "悄悄话"
+        },
+        {
+            "icon": "wenhao",
+            "text": "问号"
+        },
+        {
+            "icon": "wuyu",
+            "text": "无语"
+        },
+        {
+            "icon": "yumen",
+            "text": "郁闷"
+        },
+        {
+            "icon": "xiadao",
+            "text": "吓到"
+        },
+        {
+            "icon": "moyu",
+            "text": "摸鱼"
+        },
+        {
+            "icon": "rangwokankan",
+            "text": "让我看看"
+        },
+        {
+            "icon": "shayan",
+            "text": "傻眼"
+        },
+        {
+            "icon": "sikao",
+            "text": "思考"
+        },
+        {
+            "icon": "duqi",
+            "text": "赌气"
+        }
+    ],
+    "displayName": "剑网3·侠肝义胆沈剑心",
+    "imgClass": "small",
+    "name": "jianwang3·xiaganyidanshenjianxin",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

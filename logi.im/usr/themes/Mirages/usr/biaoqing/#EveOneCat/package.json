@@ -1,0 +1,90 @@
+{
+    "container": [
+        {
+            "icon": "escort",
+            "text": "escort"
+        },
+        {
+            "icon": "coffeebath",
+            "text": "coffeebath"
+        },
+        {
+            "icon": "stealth",
+            "text": "stealth"
+        },
+        {
+            "icon": "hightouch",
+            "text": "hightouch"
+        },
+        {
+            "icon": "lonely",
+            "text": "lonely"
+        },
+        {
+            "icon": "heart",
+            "text": "heart"
+        },
+        {
+            "icon": "slip",
+            "text": "slip"
+        },
+        {
+            "icon": "chips",
+            "text": "chips"
+        },
+        {
+            "icon": "study",
+            "text": "study"
+        },
+        {
+            "icon": "dash",
+            "text": "dash"
+        },
+        {
+            "icon": "pressure",
+            "text": "pressure"
+        },
+        {
+            "icon": "hibye",
+            "text": "hibye"
+        },
+        {
+            "icon": "confuse",
+            "text": "confuse"
+        },
+        {
+            "icon": "ignore",
+            "text": "ignore"
+        },
+        {
+            "icon": "agree",
+            "text": "agree"
+        },
+        {
+            "icon": "fight",
+            "text": "fight"
+        },
+        {
+            "icon": "splash",
+            "text": "splash"
+        },
+        {
+            "icon": "calledme",
+            "text": "calledme"
+        },
+        {
+            "icon": "sleep",
+            "text": "sleep"
+        },
+        {
+            "icon": "congrats",
+            "text": "congrats"
+        }
+    ],
+    "displayName": "#EveOneCat",
+    "imgClass": "small",
+    "name": "#EveOneCat",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "dagu",
+            "text": "打鼓"
+        },
+        {
+            "icon": "daizhu",
+            "text": "呆住"
+        },
+        {
+            "icon": "emo",
+            "text": "恶魔"
+        },
+        {
+            "icon": "tianshi",
+            "text": "天使"
+        },
+        {
+            "icon": "jichou",
+            "text": "记仇"
+        },
+        {
+            "icon": "meiwenti",
+            "text": "没问题"
+        },
+        {
+            "icon": "songhua",
+            "text": "送花"
+        },
+        {
+            "icon": "xiuxian",
+            "text": "修仙"
+        },
+        {
+            "icon": "yiyue",
+            "text": "已阅"
+        },
+        {
+            "icon": "jiangjun",
+            "text": "将军"
+        }
+    ],
+    "displayName": "乐正龙牙三周年",
+    "imgClass": "small",
+    "name": "lezhenglongyasanzhounian",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

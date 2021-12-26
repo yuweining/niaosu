@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "bizui",
+            "text": "闭嘴"
+        },
+        {
+            "icon": "chi",
+            "text": "吃"
+        },
+        {
+            "icon": "heyinliao",
+            "text": "喝饮料"
+        },
+        {
+            "icon": "jianxiao",
+            "text": "奸笑"
+        },
+        {
+            "icon": "kuxiao",
+            "text": "哭笑"
+        },
+        {
+            "icon": "numa",
+            "text": "怒骂"
+        },
+        {
+            "icon": "sang",
+            "text": "丧"
+        },
+        {
+            "icon": "shui",
+            "text": "睡"
+        },
+        {
+            "icon": "tiaopi",
+            "text": "调皮"
+        },
+        {
+            "icon": "xiao",
+            "text": "笑"
+        }
+    ],
+    "displayName": "最强蜗牛",
+    "imgClass": "small",
+    "name": "zuiqiangwoniu",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

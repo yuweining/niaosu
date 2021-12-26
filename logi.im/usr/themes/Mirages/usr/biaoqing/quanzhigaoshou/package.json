@@ -1,0 +1,70 @@
+{
+    "container": [
+        {
+            "icon": "dianzan",
+            "text": "点赞"
+        },
+        {
+            "icon": "dalao",
+            "text": "大佬"
+        },
+        {
+            "icon": "wuyu",
+            "text": "无语"
+        },
+        {
+            "icon": "huaiyi",
+            "text": "怀疑"
+        },
+        {
+            "icon": "tongku",
+            "text": "痛哭"
+        },
+        {
+            "icon": "kuaile",
+            "text": "快乐"
+        },
+        {
+            "icon": "fengkuangshuchu",
+            "text": "疯狂输出"
+        },
+        {
+            "icon": "kanxi",
+            "text": "看戏"
+        },
+        {
+            "icon": "tanshou",
+            "text": "摊手"
+        },
+        {
+            "icon": "toukan",
+            "text": "偷看"
+        },
+        {
+            "icon": "toubi",
+            "text": "投币"
+        },
+        {
+            "icon": "weixianningshi",
+            "text": "危险凝视"
+        },
+        {
+            "icon": "ding",
+            "text": "盯"
+        },
+        {
+            "icon": "xiaomimi",
+            "text": "笑咪咪"
+        },
+        {
+            "icon": "zixin",
+            "text": "自信"
+        }
+    ],
+    "displayName": "全职高手",
+    "imgClass": "small",
+    "name": "quanzhigaoshou",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

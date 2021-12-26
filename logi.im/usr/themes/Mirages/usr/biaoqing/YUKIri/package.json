@@ -1,0 +1,70 @@
+{
+    "container": [
+        {
+            "icon": "feizhouyuyumeng",
+            "text": "非洲鱼鱼萌"
+        },
+        {
+            "icon": "haoye",
+            "text": "好耶"
+        },
+        {
+            "icon": "henqiang",
+            "text": "很强"
+        },
+        {
+            "icon": "liezuixiao",
+            "text": "咧嘴笑"
+        },
+        {
+            "icon": "liekaile",
+            "text": "裂开了"
+        },
+        {
+            "icon": "moyu",
+            "text": "摸鱼"
+        },
+        {
+            "icon": "yuyudaxiao",
+            "text": "鱼鱼大笑"
+        },
+        {
+            "icon": "yuyumeng",
+            "text": "鱼鱼萌"
+        },
+        {
+            "icon": " yuyumengchijing",
+            "text": " 鱼鱼萌吃惊"
+        },
+        {
+            "icon": "qifei",
+            "text": "起飞"
+        },
+        {
+            "icon": "shengqi",
+            "text": "生气"
+        },
+        {
+            "icon": "weiqu",
+            "text": "委屈"
+        },
+        {
+            "icon": "wunai",
+            "text": "无奈"
+        },
+        {
+            "icon": "yiwen",
+            "text": "疑问"
+        },
+        {
+            "icon": "kuku",
+            "text": "哭哭"
+        }
+    ],
+    "displayName": "YUKIri",
+    "imgClass": "small",
+    "name": "YUKIri",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

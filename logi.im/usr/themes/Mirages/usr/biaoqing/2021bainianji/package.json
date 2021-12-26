@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "2021",
+            "text": "2021"
+        },
+        {
+            "icon": "AWSL",
+            "text": "AWSL"
+        },
+        {
+            "icon": "bang",
+            "text": "棒"
+        },
+        {
+            "icon": "xiao",
+            "text": "笑"
+        },
+        {
+            "icon": "chaoxiao",
+            "text": "嘲笑"
+        },
+        {
+            "icon": "fu",
+            "text": "福"
+        },
+        {
+            "icon": "toubi",
+            "text": "投币"
+        },
+        {
+            "icon": "wa",
+            "text": "哇"
+        },
+        {
+            "icon": "xinniankuaile",
+            "text": "新年快乐"
+        },
+        {
+            "icon": "yiban",
+            "text": "一般"
+        }
+    ],
+    "displayName": "2021拜年纪",
+    "imgClass": "small",
+    "name": "2021bainianji",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

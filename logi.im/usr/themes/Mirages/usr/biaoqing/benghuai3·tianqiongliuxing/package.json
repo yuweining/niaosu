@@ -1,0 +1,58 @@
+{
+    "container": [
+        {
+            "icon": "GKD",
+            "text": "GKD"
+        },
+        {
+            "icon": "baituole",
+            "text": "拜托了"
+        },
+        {
+            "icon": "chifantuan",
+            "text": "吃饭团"
+        },
+        {
+            "icon": "chijing",
+            "text": "吃惊"
+        },
+        {
+            "icon": "zan",
+            "text": "赞"
+        },
+        {
+            "icon": "ele",
+            "text": "饿了"
+        },
+        {
+            "icon": "ganbei",
+            "text": "干杯"
+        },
+        {
+            "icon": "kanshu",
+            "text": "看书"
+        },
+        {
+            "icon": "shengqi",
+            "text": "生气"
+        },
+        {
+            "icon": "sikao",
+            "text": "思考"
+        },
+        {
+            "icon": "tanqi",
+            "text": "叹气"
+        },
+        {
+            "icon": "yihuo",
+            "text": "疑惑"
+        }
+    ],
+    "displayName": "崩坏3·天穹流星",
+    "imgClass": "small",
+    "name": "benghuai3·tianqiongliuxing",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

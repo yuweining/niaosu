@@ -1,0 +1,70 @@
+{
+    "container": [
+        {
+            "icon": "awsl",
+            "text": "awsl"
+        },
+        {
+            "icon": "dacall",
+            "text": "打call"
+        },
+        {
+            "icon": "chenmo",
+            "text": "沉默"
+        },
+        {
+            "icon": "daku",
+            "text": "大哭"
+        },
+        {
+            "icon": "ganbei",
+            "text": "干杯"
+        },
+        {
+            "icon": "haorenka",
+            "text": "好人卡"
+        },
+        {
+            "icon": "jiadalidu",
+            "text": "加大力度"
+        },
+        {
+            "icon": "huaji",
+            "text": "滑稽"
+        },
+        {
+            "icon": "qingchitao",
+            "text": "请吃桃"
+        },
+        {
+            "icon": "jingya",
+            "text": "惊讶"
+        },
+        {
+            "icon": "shengqi",
+            "text": "生气"
+        },
+        {
+            "icon": "tietie",
+            "text": "贴贴"
+        },
+        {
+            "icon": "touyun",
+            "text": "头晕"
+        },
+        {
+            "icon": "wenhao",
+            "text": "问号"
+        },
+        {
+            "icon": "zhenbang",
+            "text": "真棒"
+        }
+    ],
+    "displayName": "泠鸢yousa",
+    "imgClass": "small",
+    "name": "lingyuanyousa",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

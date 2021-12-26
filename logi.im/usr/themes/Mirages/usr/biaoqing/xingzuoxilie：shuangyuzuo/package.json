@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "Zzz",
+            "text": "Zzz"
+        },
+        {
+            "icon": "fasheaixin",
+            "text": "发射爱心"
+        },
+        {
+            "icon": "motou",
+            "text": "摸头"
+        },
+        {
+            "icon": "qiyuanliuxing",
+            "text": "祈愿流星"
+        },
+        {
+            "icon": "tanqi",
+            "text": "叹气"
+        },
+        {
+            "icon": "tietie",
+            "text": "贴贴"
+        },
+        {
+            "icon": "wasai",
+            "text": "哇塞"
+        },
+        {
+            "icon": "kudexiaosheng",
+            "text": "哭的小声"
+        },
+        {
+            "icon": "youshima",
+            "text": "有事吗"
+        },
+        {
+            "icon": "zuobairimeng",
+            "text": "做白日梦"
+        }
+    ],
+    "displayName": "星座系列：双鱼座",
+    "imgClass": "small",
+    "name": "xingzuoxilie：shuangyuzuo",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

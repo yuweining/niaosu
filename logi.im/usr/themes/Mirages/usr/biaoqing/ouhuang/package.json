@@ -1,0 +1,50 @@
+{
+    "container": [
+        {
+            "icon": "666",
+            "text": "666"
+        },
+        {
+            "icon": "lucky",
+            "text": "lucky"
+        },
+        {
+            "icon": "bukuishiwo",
+            "text": "不愧是我"
+        },
+        {
+            "icon": "dalao",
+            "text": "大佬"
+        },
+        {
+            "icon": "haojiahuo",
+            "text": "好家伙"
+        },
+        {
+            "icon": "oupaoshijian",
+            "text": "欧泡时间"
+        },
+        {
+            "icon": "ouqipenwu",
+            "text": "欧气喷雾"
+        },
+        {
+            "icon": "tuofeiruou",
+            "text": "脱非入欧"
+        },
+        {
+            "icon": "wokeyi",
+            "text": "我可以"
+        },
+        {
+            "icon": "xiaozhang",
+            "text": "嚣张"
+        }
+    ],
+    "displayName": "欧皇",
+    "imgClass": "small",
+    "name": "ouhuang",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

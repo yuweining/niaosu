@@ -1,0 +1,78 @@
+{
+    "container": [
+        {
+            "icon": "hegeying",
+            "text": "合个影"
+        },
+        {
+            "icon": "jiong",
+            "text": "囧"
+        },
+        {
+            "icon": "。。。",
+            "text": "。。。"
+        },
+        {
+            "icon": "haodi",
+            "text": "好滴"
+        },
+        {
+            "icon": "jiangdaoli",
+            "text": "讲道理"
+        },
+        {
+            "icon": "landelini",
+            "text": "懒得理你"
+        },
+        {
+            "icon": "naiwohe",
+            "text": "奈我何"
+        },
+        {
+            "icon": "niyashishi",
+            "text": "你丫试试"
+        },
+        {
+            "icon": "shensi",
+            "text": "深思"
+        },
+        {
+            "icon": "edaiguan",
+            "text": "恶代官"
+        },
+        {
+            "icon": "shuoshenmemiao",
+            "text": "说什么喵"
+        },
+        {
+            "icon": "xinsui",
+            "text": "心碎"
+        },
+        {
+            "icon": "yijianzhongqing",
+            "text": "一见钟情"
+        },
+        {
+            "icon": "zhaoshier",
+            "text": "找事儿"
+        },
+        {
+            "icon": "chidai",
+            "text": "痴呆"
+        },
+        {
+            "icon": "e",
+            "text": "呃"
+        },
+        {
+            "icon": "ca",
+            "text": "擦"
+        }
+    ],
+    "displayName": "那兔",
+    "imgClass": "small",
+    "name": "natu",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

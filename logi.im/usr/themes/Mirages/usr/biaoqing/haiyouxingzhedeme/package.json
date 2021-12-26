@@ -1,0 +1,90 @@
+{
+    "container": [
+        {
+            "icon": "mole",
+            "text": "摸了"
+        },
+        {
+            "icon": "chigua",
+            "text": "吃瓜"
+        },
+        {
+            "icon": "gule",
+            "text": "咕了"
+        },
+        {
+            "icon": "hecha",
+            "text": "喝茶"
+        },
+        {
+            "icon": "jiafa",
+            "text": "假发"
+        },
+        {
+            "icon": "jingya",
+            "text": "惊讶"
+        },
+        {
+            "icon": "caihong",
+            "text": "彩虹"
+        },
+        {
+            "icon": "weixie",
+            "text": "威胁"
+        },
+        {
+            "icon": "xingxing",
+            "text": "醒醒"
+        },
+        {
+            "icon": "liubixue",
+            "text": "流鼻血"
+        },
+        {
+            "icon": "kimo",
+            "text": "kimo"
+        },
+        {
+            "icon": "aiheihei",
+            "text": "哎嘿嘿"
+        },
+        {
+            "icon": "anzhongguancha",
+            "text": "暗中观察"
+        },
+        {
+            "icon": "chiningmeng",
+            "text": "吃柠檬"
+        },
+        {
+            "icon": "huagaoren",
+            "text": "画稿人"
+        },
+        {
+            "icon": "kaixin",
+            "text": "开心"
+        },
+        {
+            "icon": "tietie",
+            "text": "贴贴"
+        },
+        {
+            "icon": "xiangtaochi",
+            "text": "想桃吃"
+        },
+        {
+            "icon": "xintong",
+            "text": "心痛"
+        },
+        {
+            "icon": "？？？",
+            "text": "？？？"
+        }
+    ],
+    "displayName": "还有醒着的么",
+    "imgClass": "small",
+    "name": "haiyouxingzhedeme",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

@@ -1,0 +1,32 @@
+name: Get Friends Avatar
+
+on:
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          ref: master
+
+      - name: Setup python and poetry
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - uses: Gr1N/setup-poetry@v4
+
+      - name: Generate data
+        run: |
+          cd logi.im/api
+          poetry install
+          poetry run python biz/friend.py init
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -am "Update friends data"
+          git push origin master

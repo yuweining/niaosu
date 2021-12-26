@@ -1,0 +1,390 @@
+{
+    "container": [
+        {
+            "icon": "weixiao",
+            "text": "微笑"
+        },
+        {
+            "icon": "xianqi",
+            "text": "嫌弃"
+        },
+        {
+            "icon": "xihuan",
+            "text": "喜欢"
+        },
+        {
+            "icon": "dai",
+            "text": "呆"
+        },
+        {
+            "icon": "daku",
+            "text": "大哭"
+        },
+        {
+            "icon": "haixiu",
+            "text": "害羞"
+        },
+        {
+            "icon": "wuyu",
+            "text": "无语"
+        },
+        {
+            "icon": "weiqu",
+            "text": "委屈"
+        },
+        {
+            "icon": "ganga",
+            "text": "尴尬"
+        },
+        {
+            "icon": "shengqi",
+            "text": "生气"
+        },
+        {
+            "icon": "jianxiao",
+            "text": "奸笑"
+        },
+        {
+            "icon": "daxiao",
+            "text": "大笑"
+        },
+        {
+            "icon": "jingya",
+            "text": "惊讶"
+        },
+        {
+            "icon": "jiong",
+            "text": "囧"
+        },
+        {
+            "icon": "wulian",
+            "text": "捂脸"
+        },
+        {
+            "icon": "linghunchuqiao",
+            "text": "灵魂出窍"
+        },
+        {
+            "icon": "tu",
+            "text": "吐"
+        },
+        {
+            "icon": "koubi",
+            "text": "抠鼻"
+        },
+        {
+            "icon": "jingxi",
+            "text": "惊喜"
+        },
+        {
+            "icon": "aojiao",
+            "text": "傲娇"
+        },
+        {
+            "icon": "teng",
+            "text": "疼"
+        },
+        {
+            "icon": "xia",
+            "text": "吓"
+        },
+        {
+            "icon": "yinxian",
+            "text": "阴险"
+        },
+        {
+            "icon": "dianzan",
+            "text": "点赞"
+        },
+        {
+            "icon": "doge",
+            "text": "doge"
+        },
+        {
+            "icon": "huaji",
+            "text": "滑稽"
+        },
+        {
+            "icon": "shengbing",
+            "text": "生病"
+        },
+        {
+            "icon": "xiangzhi",
+            "text": "响指"
+        },
+        {
+            "icon": "xusheng",
+            "text": "嘘声"
+        },
+        {
+            "icon": "heidong",
+            "text": "黑洞"
+        },
+        {
+            "icon": "chigua",
+            "text": "吃瓜"
+        },
+        {
+            "icon": "zhichi",
+            "text": "支持"
+        },
+        {
+            "icon": "miaoa",
+            "text": "妙啊"
+        },
+        {
+            "icon": "yuebing",
+            "text": "月饼"
+        },
+        {
+            "icon": "xiaoku",
+            "text": "笑哭"
+        },
+        {
+            "icon": "dacall",
+            "text": "打call"
+        },
+        {
+            "icon": "aixin",
+            "text": "爱心"
+        },
+        {
+            "icon": "xijierqi",
+            "text": "喜极而泣"
+        },
+        {
+            "icon": "touxiao",
+            "text": "偷笑"
+        },
+        {
+            "icon": "tiaopi",
+            "text": "调皮"
+        },
+        {
+            "icon": "suanle",
+            "text": "酸了"
+        },
+        {
+            "icon": "leng",
+            "text": "冷"
+        },
+        {
+            "icon": "jinli",
+            "text": "锦鲤"
+        },
+        {
+            "icon": "fudaole",
+            "text": "福到了"
+        },
+        {
+            "icon": "laoshu",
+            "text": "老鼠"
+        },
+        {
+            "icon": "ziya",
+            "text": "呲牙"
+        },
+        {
+            "icon": "baoyou",
+            "text": "保佑"
+        },
+        {
+            "icon": "baoquan",
+            "text": "抱拳"
+        },
+        {
+            "icon": "jitui",
+            "text": "鸡腿"
+        },
+        {
+            "icon": "kouzhao",
+            "text": "口罩"
+        },
+        {
+            "icon": "yihuo",
+            "text": "疑惑"
+        },
+        {
+            "icon": "wuyan",
+            "text": "捂眼"
+        },
+        {
+            "icon": "ohu",
+            "text": "哦呼"
+        },
+        {
+            "icon": "sikao",
+            "text": "思考"
+        },
+        {
+            "icon": "zaijian",
+            "text": "再见"
+        },
+        {
+            "icon": "fanbaiyan",
+            "text": "翻白眼"
+        },
+        {
+            "icon": "yongbao",
+            "text": "拥抱"
+        },
+        {
+            "icon": "guile",
+            "text": "跪了"
+        },
+        {
+            "icon": "guaiwoge",
+            "text": "怪我咯"
+        },
+        {
+            "icon": "jiayou",
+            "text": "加油"
+        },
+        {
+            "icon": "ganbei",
+            "text": "干杯"
+        },
+        {
+            "icon": "OK",
+            "text": "OK"
+        },
+        {
+            "icon": "haqian",
+            "text": "哈欠"
+        },
+        {
+            "icon": "fendou",
+            "text": "奋斗"
+        },
+        {
+            "icon": "mojing",
+            "text": "墨镜"
+        },
+        {
+            "icon": "nanguo",
+            "text": "难过"
+        },
+        {
+            "icon": "piezui",
+            "text": "撇嘴"
+        },
+        {
+            "icon": "xingxingyan",
+            "text": "星星眼"
+        },
+        {
+            "icon": "zhuakuang",
+            "text": "抓狂"
+        },
+        {
+            "icon": "xiao",
+            "text": "笑"
+        },
+        {
+            "icon": "guzhang",
+            "text": "鼓掌"
+        },
+        {
+            "icon": "shengli",
+            "text": "胜利"
+        },
+        {
+            "icon": "shipinweixing",
+            "text": "视频卫星"
+        },
+        {
+            "icon": "11zhounian",
+            "text": "11周年"
+        },
+        {
+            "icon": "gaoxing",
+            "text": "高兴"
+        },
+        {
+            "icon": "qifen",
+            "text": "气愤"
+        },
+        {
+            "icon": "shuashuai",
+            "text": "耍帅"
+        },
+        {
+            "icon": "waizui",
+            "text": "歪嘴"
+        },
+        {
+            "icon": "layanjing",
+            "text": "辣眼睛"
+        },
+        {
+            "icon": "kuqi",
+            "text": "哭泣"
+        },
+        {
+            "icon": "haha",
+            "text": "哈哈"
+        },
+        {
+            "icon": "gouzi",
+            "text": "狗子"
+        },
+        {
+            "icon": "xiuxiu",
+            "text": "羞羞"
+        },
+        {
+            "icon": "qinqin",
+            "text": "亲亲"
+        },
+        {
+            "icon": "xuehua",
+            "text": "雪花"
+        },
+        {
+            "icon": "W-haha",
+            "text": "W-哈哈"
+        },
+        {
+            "icon": "lindong-shengqi",
+            "text": "凛冬-生气"
+        },
+        {
+            "icon": "huang-zhenhan",
+            "text": "煌-震撼"
+        },
+        {
+            "icon": "shuangye-yiwen",
+            "text": "霜叶-疑问"
+        },
+        {
+            "icon": "2021",
+            "text": "2021"
+        },
+        {
+            "icon": "niunian",
+            "text": "牛年"
+        },
+        {
+            "icon": "keguazi",
+            "text": "嗑瓜子"
+        },
+        {
+            "icon": "tuodandoge",
+            "text": "脱单doge"
+        },
+        {
+            "icon": "geixinxin",
+            "text": "给心心"
+        },
+        {
+            "icon": "dudu",
+            "text": "嘟嘟"
+        }
+    ],
+    "displayName": "小黄脸",
+    "imgClass": "small",
+    "name": "xiaohuanglian",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

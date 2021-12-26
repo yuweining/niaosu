@@ -1,0 +1,70 @@
+{
+    "container": [
+        {
+            "icon": "aikugui",
+            "text": "爱哭鬼"
+        },
+        {
+            "icon": "aileaile",
+            "text": "爱了爱了"
+        },
+        {
+            "icon": "anzhongguancha",
+            "text": "暗中观察"
+        },
+        {
+            "icon": "banzhuan",
+            "text": "搬砖"
+        },
+        {
+            "icon": "chigua",
+            "text": "吃瓜"
+        },
+        {
+            "icon": "dacall",
+            "text": "打call"
+        },
+        {
+            "icon": "ganfan",
+            "text": "干饭"
+        },
+        {
+            "icon": "haojiahuo",
+            "text": "好家伙"
+        },
+        {
+            "icon": "jingle",
+            "text": "惊了"
+        },
+        {
+            "icon": "leile",
+            "text": "累了"
+        },
+        {
+            "icon": "liekai",
+            "text": "裂开"
+        },
+        {
+            "icon": "nibuduijin",
+            "text": "你不对劲"
+        },
+        {
+            "icon": "qieyi",
+            "text": "惬意"
+        },
+        {
+            "icon": "suzhisanlian",
+            "text": "素质三连"
+        },
+        {
+            "icon": "tietie",
+            "text": "贴贴"
+        }
+    ],
+    "displayName": "小羊驼三三",
+    "imgClass": "small",
+    "name": "xiaoyangtuosansan",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

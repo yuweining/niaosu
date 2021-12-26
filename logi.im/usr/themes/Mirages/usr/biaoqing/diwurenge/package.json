@@ -1,0 +1,58 @@
+{
+    "container": [
+        {
+            "icon": "han",
+            "text": "汗"
+        },
+        {
+            "icon": "songhua",
+            "text": "送花"
+        },
+        {
+            "icon": "dacall",
+            "text": "打call"
+        },
+        {
+            "icon": "yihuo",
+            "text": "疑惑"
+        },
+        {
+            "icon": "dianzan",
+            "text": "点赞"
+        },
+        {
+            "icon": "chigua",
+            "text": "吃瓜"
+        },
+        {
+            "icon": "jing",
+            "text": "惊"
+        },
+        {
+            "icon": "jizhi",
+            "text": "机智"
+        },
+        {
+            "icon": "haixiu",
+            "text": "害羞"
+        },
+        {
+            "icon": "suanle",
+            "text": "酸了"
+        },
+        {
+            "icon": "ku",
+            "text": "哭"
+        },
+        {
+            "icon": "touxiao",
+            "text": "偷笑"
+        }
+    ],
+    "displayName": "第五人格",
+    "imgClass": "small",
+    "name": "diwurenge",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

@@ -1,0 +1,226 @@
+{
+    "container": [
+        {
+            "icon": "chuibao",
+            "text": "吹爆"
+        },
+        {
+            "icon": "sanlian",
+            "text": "三连"
+        },
+        {
+            "icon": "gaochan",
+            "text": "高产"
+        },
+        {
+            "icon": "daka",
+            "text": "打卡"
+        },
+        {
+            "icon": "wosuanle",
+            "text": "我酸了"
+        },
+        {
+            "icon": "keyi",
+            "text": "可以"
+        },
+        {
+            "icon": "chui",
+            "text": "锤"
+        },
+        {
+            "icon": "wanjiesahua",
+            "text": "完结撒花"
+        },
+        {
+            "icon": "woquandouyao",
+            "text": "我全都要"
+        },
+        {
+            "icon": "zhenxiang",
+            "text": "真香"
+        },
+        {
+            "icon": "nibiyoule",
+            "text": "你币有了"
+        },
+        {
+            "icon": "miaoa",
+            "text": "妙啊"
+        },
+        {
+            "icon": "xiu",
+            "text": "秀"
+        },
+        {
+            "icon": "yeguangeng",
+            "text": "爷关更"
+        },
+        {
+            "icon": "youshengzhinian",
+            "text": "有生之年"
+        },
+        {
+            "icon": "zhenzhanzhibao",
+            "text": "镇站之宝"
+        },
+        {
+            "icon": "bukuishini",
+            "text": "不愧是你"
+        },
+        {
+            "icon": "dashiqiu",
+            "text": "大师球"
+        },
+        {
+            "icon": "shenxianUP",
+            "text": "神仙UP"
+        },
+        {
+            "icon": "wotainanle",
+            "text": "我太南了"
+        },
+        {
+            "icon": "zhishimangqu",
+            "text": "知识盲区"
+        },
+        {
+            "icon": "“langhuo”",
+            "text": "“狼火”"
+        },
+        {
+            "icon": "AWSL",
+            "text": "AWSL"
+        },
+        {
+            "icon": "aoligei",
+            "text": "奥力给"
+        },
+        {
+            "icon": "zhishizengjia",
+            "text": "知识增加"
+        },
+        {
+            "icon": "nixipin",
+            "text": "你细品"
+        },
+        {
+            "icon": "youneiweile",
+            "text": "有内味了"
+        },
+        {
+            "icon": "mengnanbikan",
+            "text": "猛男必看"
+        },
+        {
+            "icon": "wokule",
+            "text": "我哭了"
+        },
+        {
+            "icon": "zheciyiding",
+            "text": "这次一定"
+        },
+        {
+            "icon": "hai",
+            "text": "害"
+        },
+        {
+            "icon": "biaozhunjieju",
+            "text": "标准结局"
+        },
+        {
+            "icon": "aileaile",
+            "text": "爱了爱了"
+        },
+        {
+            "icon": "wei",
+            "text": "危"
+        },
+        {
+            "icon": "woliekaile",
+            "text": "我裂开了"
+        },
+        {
+            "icon": "zhangsan",
+            "text": "张三"
+        },
+        {
+            "icon": "gugu",
+            "text": "咕咕"
+        },
+        {
+            "icon": "wenhao",
+            "text": "问号"
+        },
+        {
+            "icon": "dihuatong",
+            "text": "递话筒"
+        },
+        {
+            "icon": "baohu",
+            "text": "保护"
+        },
+        {
+            "icon": "leimu",
+            "text": "泪目"
+        },
+        {
+            "icon": "haipa",
+            "text": "害怕"
+        },
+        {
+            "icon": "nikezhenxing",
+            "text": "你可真星"
+        },
+        {
+            "icon": "xiwangmeishi",
+            "text": "希望没事"
+        },
+        {
+            "icon": "menghuanliandong",
+            "text": "梦幻联动"
+        },
+        {
+            "icon": "DNA",
+            "text": "DNA"
+        },
+        {
+            "icon": "wuhuqifei",
+            "text": "芜湖起飞"
+        },
+        {
+            "icon": "yeqinghui",
+            "text": "爷青回"
+        },
+        {
+            "icon": "haojiahuo",
+            "text": "好家伙"
+        },
+        {
+            "icon": "haoye",
+            "text": "好耶"
+        },
+        {
+            "icon": "zailaiyibian",
+            "text": "再来亿遍"
+        },
+        {
+            "icon": "rehu",
+            "text": "热乎"
+        },
+        {
+            "icon": "haohuo",
+            "text": "好活"
+        },
+        {
+            "icon": "paimian",
+            "text": "排面"
+        }
+    ],
+    "displayName": "热词系列一",
+    "imgClass": "small",
+    "name": "recixilieyi",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

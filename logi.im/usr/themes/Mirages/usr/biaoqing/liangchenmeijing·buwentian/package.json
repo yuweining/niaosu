@@ -1,0 +1,70 @@
+{
+    "container": [
+        {
+            "icon": "daku",
+            "text": "大哭"
+        },
+        {
+            "icon": "feiwen",
+            "text": "飞吻"
+        },
+        {
+            "icon": "haoye",
+            "text": "好耶"
+        },
+        {
+            "icon": "daxiao",
+            "text": "大笑"
+        },
+        {
+            "icon": "prpr",
+            "text": "prpr"
+        },
+        {
+            "icon": "hewojiehun",
+            "text": "和我结婚"
+        },
+        {
+            "icon": "azhe",
+            "text": "啊这"
+        },
+        {
+            "icon": "chigua",
+            "text": "吃瓜"
+        },
+        {
+            "icon": "ganbei",
+            "text": "干杯"
+        },
+        {
+            "icon": "xixi",
+            "text": "喜喜"
+        },
+        {
+            "icon": "haixiu",
+            "text": "害羞"
+        },
+        {
+            "icon": "wenhao",
+            "text": "问号"
+        },
+        {
+            "icon": "gantanhao",
+            "text": "感叹号"
+        },
+        {
+            "icon": "zan",
+            "text": "赞"
+        },
+        {
+            "icon": "laile！",
+            "text": "来了！"
+        }
+    ],
+    "displayName": "良辰美景·不问天",
+    "imgClass": "small",
+    "name": "liangchenmeijing·buwentian",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

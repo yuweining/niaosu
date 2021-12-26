@@ -1,0 +1,74 @@
+{
+    "container": [
+        {
+            "icon": "xinxin",
+            "text": "心心"
+        },
+        {
+            "icon": "buguoruci",
+            "text": "不过如此"
+        },
+        {
+            "icon": "duibuqi",
+            "text": "对不起"
+        },
+        {
+            "icon": "wanan",
+            "text": "晚安"
+        },
+        {
+            "icon": "OK",
+            "text": "OK"
+        },
+        {
+            "icon": "hahaha",
+            "text": "哈哈哈"
+        },
+        {
+            "icon": "momotou",
+            "text": "摸摸头"
+        },
+        {
+            "icon": "jingya",
+            "text": "惊讶"
+        },
+        {
+            "icon": "anzhongguancha",
+            "text": "暗中观察"
+        },
+        {
+            "icon": "turanchuxian",
+            "text": "突然出现"
+        },
+        {
+            "icon": "jingshenxiaohuo",
+            "text": "精神小火"
+        },
+        {
+            "icon": "leile",
+            "text": "累了"
+        },
+        {
+            "icon": "jixiaobenben",
+            "text": "记小本本"
+        },
+        {
+            "icon": "guaiqiao",
+            "text": "乖巧"
+        },
+        {
+            "icon": "wuyu",
+            "text": "无语"
+        },
+        {
+            "icon": "shenme",
+            "text": "什么"
+        }
+    ],
+    "displayName": "黑潮之上",
+    "imgClass": "small",
+    "name": "heichaozhishang",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

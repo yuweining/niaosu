@@ -1,0 +1,154 @@
+{
+    "container": [
+        {
+            "icon": "xiaoshiyizhuang",
+            "text": "小事一桩"
+        },
+        {
+            "icon": "wu",
+            "text": "唔"
+        },
+        {
+            "icon": "tangping",
+            "text": "躺平"
+        },
+        {
+            "icon": "o",
+            "text": "哦"
+        },
+        {
+            "icon": "kuku",
+            "text": "哭哭"
+        },
+        {
+            "icon": "jiujiuwo",
+            "text": "救救我"
+        },
+        {
+            "icon": "jingjue",
+            "text": "警觉"
+        },
+        {
+            "icon": "jiaogeiwoba",
+            "text": "交给我吧"
+        },
+        {
+            "icon": "hengheng",
+            "text": "哼哼"
+        },
+        {
+            "icon": "geiwozoukai",
+            "text": "给我走开"
+        },
+        {
+            "icon": "gezi",
+            "text": "鸽子"
+        },
+        {
+            "icon": "ganbei",
+            "text": "干杯"
+        },
+        {
+            "icon": "gaichifanle",
+            "text": "该吃饭了"
+        },
+        {
+            "icon": "chuhuoba",
+            "text": "出货吧"
+        },
+        {
+            "icon": "chijing",
+            "text": "吃惊"
+        },
+        {
+            "icon": "buyaoa",
+            "text": "不要啊"
+        },
+        {
+            "icon": "baituo",
+            "text": "拜托"
+        },
+        {
+            "icon": "zzZZ",
+            "text": "zzZZ"
+        },
+        {
+            "icon": "good job",
+            "text": "good job"
+        },
+        {
+            "icon": "1mola",
+            "text": "1摩拉"
+        },
+        {
+            "icon": "OK",
+            "text": "OK"
+        },
+        {
+            "icon": "anzhongguancha",
+            "text": "暗中观察"
+        },
+        {
+            "icon": "bixin",
+            "text": "比心"
+        },
+        {
+            "icon": "zhenhan",
+            "text": "震撼"
+        },
+        {
+            "icon": "dao",
+            "text": "倒"
+        },
+        {
+            "icon": "dianzan",
+            "text": "点赞"
+        },
+        {
+            "icon": "guzhang",
+            "text": "鼓掌"
+        },
+        {
+            "icon": "guaiqiao",
+            "text": "乖巧"
+        },
+        {
+            "icon": "deyi",
+            "text": "得意"
+        },
+        {
+            "icon": "lengmo",
+            "text": "冷漠"
+        },
+        {
+            "icon": "qidai",
+            "text": "期待"
+        },
+        {
+            "icon": "sahua",
+            "text": "撒花"
+        },
+        {
+            "icon": "wanan",
+            "text": "晚安"
+        },
+        {
+            "icon": "weiqu",
+            "text": "委屈"
+        },
+        {
+            "icon": "yiwen",
+            "text": "疑问"
+        },
+        {
+            "icon": "youzhuyile",
+            "text": "有主意了"
+        }
+    ],
+    "displayName": "原神",
+    "imgClass": "small",
+    "name": "yuanshen",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}

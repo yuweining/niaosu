@@ -1,0 +1,58 @@
+{
+    "container": [
+        {
+            "icon": "kaixin",
+            "text": "开心"
+        },
+        {
+            "icon": "shengqi",
+            "text": "生气"
+        },
+        {
+            "icon": "ku",
+            "text": "哭"
+        },
+        {
+            "icon": "bixin",
+            "text": "比心"
+        },
+        {
+            "icon": "yiwen",
+            "text": "疑问"
+        },
+        {
+            "icon": "wohaole",
+            "text": "我好了"
+        },
+        {
+            "icon": "han",
+            "text": "汗"
+        },
+        {
+            "icon": "dianzan",
+            "text": "点赞"
+        },
+        {
+            "icon": "haipa",
+            "text": "害怕"
+        },
+        {
+            "icon": "huaji",
+            "text": "滑稽"
+        },
+        {
+            "icon": "mudengkoudai",
+            "text": "目瞪口呆"
+        },
+        {
+            "icon": "qianpai",
+            "text": "前排"
+        }
+    ],
+    "displayName": "大王不高兴",
+    "imgClass": "small",
+    "name": "daiwangbugaoxing",
+    "retinaSuffix": ".png",
+    "suffix": ".png",
+    "type": "usr"
+}
